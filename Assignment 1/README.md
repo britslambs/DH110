@@ -54,3 +54,26 @@ No recommendations for improvement.
 ### Severity Ratings 
 0
 
+## 2. Match Between Systems and the Real World
+The website/app should be utilizing words and presenting concepts in a way that mirrors real-life. 
+
+### Good: 
+The website uses common real-life phrases such as "Calender", "Budget", and "Recipe Box".
+
+### Improvements:
+No recommendations for improvement.
+
+### Severity Ratings:
+0
+
+## 3. User Control and Freedom 
+The website/app allows users to easily undo or delete an option. 
+
+### Good:
+The site easily allows users to delete an accidental post or submission. For example, if an individual accidentally posted a photo and wanted to delete it. The user can go to the vertical ellipsis next to the photo and click on the trash icon. 
+### Bad:
+If the user wanted to delete or edit an item off the To-Do list, they would have to hover their cursor over the item in order to see the trash and pencil icon. 
+### Improvements:
+Add a horizontal ellipsis to indicate that users can perform an action.
+### Severity Rating:
+2
