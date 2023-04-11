@@ -44,12 +44,12 @@ The website tells you at the top of the page which family group you are in. In a
 No recommendations for improvement.*
 
 ## 2. Match Between Systems and the Real World
-The website/app should be utilizing words and presenting concepts in a way that mirrors real-life. (0)
+The website/app should be utilizing words and presenting concepts in a way that mirrors real-life. (2)
 
-The website uses common real-life phrases such as "Calender", "Budget", and "Recipe Box".
+The website uses common real-life phrases such as "Calender", "Budget", and "Recipe Box". However, on the feed page it gives the option of ordering posts by "creation date" and "update date". These two phrases may be confusing for users to differentiate them. 
 
 *Improvements:
-No recommendations for improvement.*
+"Creative Date" should be changed to "Upload Date".*
 
 ## 3. User Control and Freedom 
 The website/app allows users to easily undo or delete an option. 
@@ -68,3 +68,14 @@ The menu is located on the left side of the screen. And there are three horizont
 *Improvements:
 Move the FamilyWall icon that takes users to the home page in the middle of the screen. In addition, move the group icon to the left of the screen.*
 
+## 5. Error Prevention
+The website/app should prevent errors from occurring and check with users using confirmation. 
+
+When writing an update, the website notifys if the user has spelled a word incorrectly. However, there is no spelling and grammar check options. In addition, there is no option to save a draft of my post if I wanted to go back to writing my post. (3)
+
+*Improvements: Add a pop up message features that the users draft will not be saved for the future. 
+
+## 6. Recognition Rather than Recall 
+The website/app makes information easily accessible without have to remember an icons. 
+
+The side navigation bar is collapsable. When collapsed, each tab has universal icons. The user does not have to hover over the navigation bar. 
