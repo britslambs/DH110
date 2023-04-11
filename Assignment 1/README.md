@@ -95,7 +95,7 @@ Website/app should not contain irrelevant information.
 
 The side navigation bar has many tabs/icons. This may be overwhelming for users who are novice at using technology. Also, there are tabs that are only availble for premium users but embedded within the side navigation bar with the free options as well. (3)
 
-*Improvements: Tabs should be combined. For example, "Timetables" and "Calendar" can be merged together since both of their purposes are about scheduling and events. Premium tabs should have an additional icon, such as a star, so the user isn't left unsatisfied and confused.
+*Improvements: Tabs should be combined. For example, "Timetables" and "Calendar" can be merged together since both of their purposes are about scheduling and events. Premium tabs should have an additional icon, such as a star, so the user isn't left unsatisfied and confused.*
 
 ## 9. Help users recognize, diagnose, and recover from errors
 The website/app should display error messages using plain language. 
@@ -110,3 +110,6 @@ Website/app should have easily accessible help pages.
 There is no help tab on the side navigation bar. There is the word "support" at the bottom of the page. It is written in a very small font and is off-centered. (3)
 
 *Improvements: Instead of "support" it should be the word "help". Also, it should be added to the side navigation bar for easy accessibility.*
+
+## 2) Marco Polo 
+https://apps.apple.com/us/app/marco-polo-video-selfie-chat/id912561374
