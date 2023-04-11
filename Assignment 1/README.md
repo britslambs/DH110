@@ -73,9 +73,16 @@ The website/app should prevent errors from occurring and check with users using 
 
 When writing an update, the website notifys if the user has spelled a word incorrectly. However, there is no spelling and grammar check options. In addition, there is no option to save a draft of my post if I wanted to go back to writing my post. (3)
 
-*Improvements: Add a pop up message features that the users draft will not be saved for the future. 
+*Improvements: Add a pop up message features that the users draft will not be saved for the future.*
 
 ## 6. Recognition Rather than Recall 
 The website/app makes information easily accessible without have to remember an icons. 
 
 The side navigation bar is collapsable. When collapsed, each tab has universal icons. The user does not have to hover over the navigation bar. 
+
+*Improvements: No recommendations for improvement.*
+
+## 7. Flexibility and Efficiency of Use 
+The website/app has processes and shortcuts that allow novice users to become experts.
+
+When users what to comment on someone's post, there is a GIF and Emoji icon for individuals to easily pick out either. 
