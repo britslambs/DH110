@@ -28,18 +28,20 @@ FamilyWall is an app that aims to help users create a network of close family an
 
 
        
-Heuristic Evaluation Improvements everity Ratings 
 ## Heuristic 
  #1. Visibility of System Status   
 The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner.
 
 ## Evaluation 
-### Good: 
+#### Good: 
 The website tells you at the top of the page which family group you are in. 
 
-### Good: In addition, at the top of the left side bar, it clearly states that you are logged in with the correct profile.
+### Good: 
 
-### Good: When you create a post, it immediately alert you whether or not it has successfully been posted on the feed. 
+In addition, at the top of the left side bar, it clearly states that you are logged in with the correct profile.
+
+### Good: 
+When you create a post, it immediately alert you whether or not it has successfully been posted on the feed. 
 
 ## Improvements
 No recommendations for improvement.
