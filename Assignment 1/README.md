@@ -114,6 +114,8 @@ There is no help tab on the side navigation bar. There is the word "support" at 
 ## 2) Marco Polo 
 https://apps.apple.com/us/app/marco-polo-video-selfie-chat/id912561374
 
+*About*
+
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 32 AM" src="https://user-images.githubusercontent.com/119825654/231139913-ee6a9771-70aa-445b-8e5c-41debf848b15.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 40 AM" src="https://user-images.githubusercontent.com/119825654/231140028-a2995bc0-92b8-448e-a0a4-f7ec1cae3935.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 48 AM" src="https://user-images.githubusercontent.com/119825654/231140057-3e48a815-f870-4cc9-bec0-9f92ab8c7d7a.png">
