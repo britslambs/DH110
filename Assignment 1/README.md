@@ -30,7 +30,5 @@ FamilyWall is an app that aims to help users create a network of close family an
        
 | Heuristic | Evaluation | Improvements | Severity Ratings |
 |-----------| -----------|--------------| -----------------|
-|
-# 1. Visibility of System Status 
-The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner. | 
-# Good 
+| #1. Visibility of System Status 
+The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner. | Good: 
