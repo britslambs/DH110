@@ -18,18 +18,19 @@ In this assignment, I will be conducting two heuristic evaluations using the 10 
 
 credit: (https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
-## Connect.Family 
-[
-](https://play.google.com/store/apps/details?id=family.connect.app)
+## FamilyWall 
+
+https://play.google.com/store/apps/details?id=family.connect.app
 
 *About*
 
-Connect.Family is an app that aims to help users create a private network made up of close friends and family members. Individuals can create family trees and input their geographic locations to notify you when added users in your private network are nearby. In addition, video chatting and messaging are availble. Users can also send requests to suggest plans in which you can accept or deny. 
-         ![connect family](https://user-images.githubusercontent.com/119825654/231088312-552a3f81-cc61-4d7e-aaa6-82348789cf30.jpg)
-![connect family 2](https://user-images.githubusercontent.com/119825654/231088396-5e46d757-3cd4-449e-aeba-0fa42795a8a7.jpg)
-![connect family 3](https://user-images.githubusercontent.com/119825654/231088447-92659f5c-f1bb-469d-b813-cd9f1d9cc968.jpg)
-![connect family 4](https://user-images.githubusercontent.com/119825654/231088645-24e8dd1e-4029-4a8f-8eb8-becd05d6d31a.jpg)
-![connect family 5](https://user-images.githubusercontent.com/119825654/231088698-62885c29-9276-4778-bf50-ae9ced09f437.jpg)
+FamilyWall is an app that aims to help users create a network of close family and friends. Within the app, individuals can privately communicate with their loved ones. They can access a private cloud, exchange message and photos, share contacts, organize events, and see locations. 
 
+
+       
 | Heuristic | Evaluation | Improvements | Severity Ratings |
-| # 1. Visibility of System Status  
+|-----------| -----------|--------------| -----------------|
+|
+# 1. Visibility of System Status 
+The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner. | 
+# Good 
