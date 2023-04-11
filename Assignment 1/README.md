@@ -36,15 +36,15 @@ The website/app informs the user of the current status of what is happening and 
 #### Good: 
 The website tells you at the top of the page which family group you are in. 
 
-### Good: 
+#### Good: 
 
 In addition, at the top of the left side bar, it clearly states that you are logged in with the correct profile.
 
-### Good: 
+#### Good: 
 When you create a post, it immediately alert you whether or not it has successfully been posted on the feed. 
 
-## Improvements
+### Improvements
 No recommendations for improvement.
 
-## Severity Ratings 
+### Severity Ratings 
 0
