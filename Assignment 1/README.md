@@ -45,9 +45,9 @@ The website tells you at the top of the page which family group you are in. In a
 No recommendations for improvement.*
 
 ## 2. Match Between Systems and the Real World
-The website/app should be utilizing words and presenting concepts in a way that mirrors real-life. (2)
+The website/app should be utilizing words and presenting concepts in a way that mirrors real-life. 
 
-The website uses common real-life phrases such as "Calender", "Budget", and "Recipe Box". However, on the feed page it gives the option of ordering posts by "creation date" and "update date". These two phrases may be confusing for users to differentiate them. 
+The website uses common real-life phrases such as "Calender", "Budget", and "Recipe Box". However, on the feed page it gives the option of ordering posts by "creation date" and "update date". These two phrases may be confusing for users to differentiate them. (2)
 
 *Improvements:
 "Creative Date" should be changed to "Upload Date".*
@@ -77,30 +77,30 @@ When writing an update, the website notifys if the user has spelled a word incor
 *Improvements: Add a pop up message features that the users draft will not be saved for the future.*
 
 ## 6. Recognition Rather than Recall 
-The website/app makes information easily accessible without have to remember an icons. (0)
+The website/app makes information easily accessible without have to remember an icons. 
 
 The side navigation bar is collapsable. When collapsed, each tab has universal icons. The user does not have to hover over the navigation bar. (0)
 
 *Improvements: No recommendations for improvement.*
 
 ## 7. Flexibility and Efficiency of Use 
-The website/app has processes and shortcuts that allow novice users to become experts.(2)
+The website/app has processes and shortcuts that allow novice users to become experts.
 
-When users what to comment on someone's post, there is a GIF and Emoji icon for individuals to easily pick out either. There are no keyboard shortcuts available for when you are updating your feed. 
+When users what to comment on someone's post, there is a GIF and Emoji icon for individuals to easily pick out either. There are no keyboard shortcuts available for when you are updating your feed. (2)
 
 *Improvements: Add more options for written updates such as text-to-speech. In addition, pictures should have alternate text to make the platform more accessible.*
 
 ## 8. Aesthetic and Minimalist Design
-Website/app should not contain irrelevant information. (3)
+Website/app should not contain irrelevant information. 
 
-The side navigation bar has many tabs/icons. This may be overwhelming for users who are novice at using technology.
+The side navigation bar has many tabs/icons. This may be overwhelming for users who are novice at using technology. (3)
 
 *Improvements: Tabs should be combined. For example, "Timetables" and "Calendar" can be merged together since both of their purposes are about scheduling and events. 
 
 ## 9. Help users recognize, diagnose, and recover from errors
-The website/app should display error messages using plain language. (0)
+The website/app should display error messages using plain language. 
 
-If the user enters the wrong password or email, its "Check your username or password" in a red bar. 
+If the user enters the wrong password or email, its "Check your username or password" in a red bar. (0)
 
 *Improvements: No recommendations for improvements.*
 
