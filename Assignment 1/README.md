@@ -86,16 +86,16 @@ The side navigation bar is collapsable. When collapsed, each tab has universal i
 ## 7. Flexibility and Efficiency of Use 
 The website/app has processes and shortcuts that allow novice users to become experts.
 
-When users what to comment on someone's post, there is a GIF and Emoji icon for individuals to easily pick out either. There are no keyboard shortcuts available for when you are updating your feed. (2)
+When users what to comment on someone's post, there is a GIF and Emoji icon for individuals to easily pick out either. There are no keyboard shortcuts available for when you are updating your feed.(2)
 
 *Improvements: Add more options for written updates such as text-to-speech. In addition, pictures should have alternate text to make the platform more accessible.*
 
 ## 8. Aesthetic and Minimalist Design
 Website/app should not contain irrelevant information. 
 
-The side navigation bar has many tabs/icons. This may be overwhelming for users who are novice at using technology. (3)
+The side navigation bar has many tabs/icons. This may be overwhelming for users who are novice at using technology. Also, there are tabs that are only availble for premium users but embedded within the side navigation bar with the free options as well. (3)
 
-*Improvements: Tabs should be combined. For example, "Timetables" and "Calendar" can be merged together since both of their purposes are about scheduling and events. 
+*Improvements: Tabs should be combined. For example, "Timetables" and "Calendar" can be merged together since both of their purposes are about scheduling and events. Premium tabs should have an additional icon, such as a star, so the user isn't left unsatisfied and confused.
 
 ## 9. Help users recognize, diagnose, and recover from errors
 The website/app should display error messages using plain language. 
