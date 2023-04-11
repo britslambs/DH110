@@ -26,6 +26,11 @@ https://play.google.com/store/apps/details?id=family.connect.app
 
 FamilyWall is an app that aims to help users create a network of close family and friends. Within the app, individuals can privately communicate with their loved ones. They can access a private cloud, exchange message and photos, share contacts, organize events, and see locations. 
 
+<img width="1470" alt="Screen Shot 2023-04-11 at 1 02 25 AM" src="https://user-images.githubusercontent.com/119825654/231098362-7c88f5ac-7a74-4bfe-b80f-e4599d9f296b.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 1 03 54 AM" src="https://user-images.githubusercontent.com/119825654/231098383-456a75bd-b7b0-4ab4-84db-aa5051049095.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 1 04 35 AM" src="https://user-images.githubusercontent.com/119825654/231098397-c1f94955-a3d8-4176-86c8-df45b3ec0a79.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 1 05 27 AM" src="https://user-images.githubusercontent.com/119825654/231098409-6604bc08-0ac5-4c6e-8b2f-543d9be8b747.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 1 05 38 AM" src="https://user-images.githubusercontent.com/119825654/231098427-4ae3b8aa-5695-43e5-ae60-fca16d651b84.png">
 
        
  
@@ -47,10 +52,4 @@ No recommendations for improvement.
 
 ### Severity Ratings 
 0
-<img width="1470" alt="Screen Shot 2023-04-11 at 1 02 25 AM" src="https://user-images.githubusercontent.com/119825654/231098362-7c88f5ac-7a74-4bfe-b80f-e4599d9f296b.png">
-<img width="1470" alt="Screen Shot 2023-04-11 at 1 03 48 AM" src="https://user-images.githubusercontent.com/119825654/231098366-c289e553-d691-498a-934b-f47784a461ec.png">
-<img width="1470" alt="Screen Shot 2023-04-11 at 1 03 54 AM" src="https://user-images.githubusercontent.com/119825654/231098383-456a75bd-b7b0-4ab4-84db-aa5051049095.png">
-<img width="1470" alt="Screen Shot 2023-04-11 at 1 04 35 AM" src="https://user-images.githubusercontent.com/119825654/231098397-c1f94955-a3d8-4176-86c8-df45b3ec0a79.png">
-<img width="1470" alt="Screen Shot 2023-04-11 at 1 05 27 AM" src="https://user-images.githubusercontent.com/119825654/231098409-6604bc08-0ac5-4c6e-8b2f-543d9be8b747.png">
-<img width="1470" alt="Screen Shot 2023-04-11 at 1 05 38 AM" src="https://user-images.githubusercontent.com/119825654/231098427-4ae3b8aa-5695-43e5-ae60-fca16d651b84.png">
-<img width="1470" alt="Screen Shot 2023-04-11 at 1 02 25 AM" src="https://user-images.githubusercontent.com/119825654/231098438-b7549849-811a-40a0-a1f1-82897c8eadc7.png">
+
