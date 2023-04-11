@@ -38,20 +38,20 @@ images.githubusercontent.com/119825654/231098438-b7549849-811a-40a0-a1f1-82897c8
 ## 1. Visibility of System Status   
 The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner.
 
-#### Good: 
+### Good: 
 The website tells you at the top of the page which family group you are in. 
 
-#### Good: 
+### Good: 
 
 In addition, at the top of the left side bar, it clearly states that you are logged in with the correct profile.
 
-#### Good: 
+### Good: 
 When you create a post, it immediately alert you whether or not it has successfully been posted on the feed. 
 
-### Improvements
+### Improvements:
 No recommendations for improvement.
 
-### Severity Ratings 
+### Severity Ratings: 
 0
 
 ## 2. Match Between Systems and the Real World
@@ -75,5 +75,19 @@ The site easily allows users to delete an accidental post or submission. For exa
 If the user wanted to delete or edit an item off the To-Do list, they would have to hover their cursor over the item in order to see the trash and pencil icon. 
 ### Improvements:
 Add a horizontal ellipsis to indicate that users can perform an action.
+### Severity Rating:
+2
+
+## 4. Consistency and Standards 
+The website/app words, phrases, and actions aligns with conventions that other websites also use.
+
+### Good: 
+The menu is located on the left side of the screen. And there are three horizontal lines at the top left of the screen, indicating that the menu is collapsable. In addition, after collapsing the menu bar, there are universal icons for users to still click on and identify.
+### Good: 
+By clicking on the FamilyWall icon at the top left of the screen, it relocates the user to the home page. 
+### Bad: 
+It may be difficult for technologically challenged users to naviagate the menu bar from the side of the page instead of using navigating these options from the top of the screen. 
+### Improvements:
+Move the FamilyWall icon that takes users to the home page in the middle of the screen. In addition, move the group icon to the left of the screen.
 ### Severity Rating:
 2
