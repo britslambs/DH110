@@ -78,7 +78,7 @@ When writing an update, the website notifys if the user has spelled a word incor
 ## 6. Recognition Rather than Recall 
 The website/app makes information easily accessible without have to remember an icons. 
 
-The side navigation bar is collapsable. When collapsed, each tab has universal icons. The user does not have to hover over the navigation bar. 
+The side navigation bar is collapsable. When collapsed, each tab has universal icons. The user does not have to hover over the navigation bar. (0)
 
 *Improvements: No recommendations for improvement.*
 
