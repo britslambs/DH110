@@ -15,6 +15,7 @@ In this assignment, I will be conducting two heuristic evaluations using the 10 
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project  |
 | 2 | Minor usability problem: fixing this should be given low priority              |
 | 3 | Major usability problem: important to fix, so should be given high priority              |
+
 credit: (https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
 ## Competitor 1: Connect.Family 
