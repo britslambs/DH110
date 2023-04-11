@@ -18,7 +18,10 @@ In this assignment, I will be conducting two heuristic evaluations using the 10 
 
 credit: (https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
-## Competitor 1: Connect.Family 
+## Connect.Family 
+[
+](https://play.google.com/store/apps/details?id=family.connect.app)
+
 *About*
 
 Connect.Family is an app that aims to help users create a private network made up of close friends and family members. Individuals can create family trees and input their geographic locations to notify you when added users in your private network are nearby. In addition, video chatting and messaging are availble. Users can also send requests to suggest plans in which you can accept or deny. 
@@ -27,3 +30,6 @@ Connect.Family is an app that aims to help users create a private network made u
 ![connect family 3](https://user-images.githubusercontent.com/119825654/231088447-92659f5c-f1bb-469d-b813-cd9f1d9cc968.jpg)
 ![connect family 4](https://user-images.githubusercontent.com/119825654/231088645-24e8dd1e-4029-4a8f-8eb8-becd05d6d31a.jpg)
 ![connect family 5](https://user-images.githubusercontent.com/119825654/231088698-62885c29-9276-4778-bf50-ae9ced09f437.jpg)
+
+| Heuristic | Evaluation | Improvements | Severity Ratings |
+| # 1. Visibility of System Status  
