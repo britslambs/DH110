@@ -18,7 +18,7 @@ In this assignment, I will be conducting two heuristic evaluations using the 10 
 
 credit: (https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
-## FamilyWall 
+## 1) FamilyWall 
 
 https://play.google.com/store/apps/details?id=family.connect.app
 
@@ -28,11 +28,10 @@ FamilyWall is an app that aims to help users create a network of close family an
 
 
        
-## Heuristic 
- #1. Visibility of System Status   
+ 
+## 1. Visibility of System Status   
 The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner.
 
-## Evaluation 
 #### Good: 
 The website tells you at the top of the page which family group you are in. 
 
