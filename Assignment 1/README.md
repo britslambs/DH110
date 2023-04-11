@@ -31,7 +31,8 @@ FamilyWall is an app that aims to help users create a network of close family an
 <img width="1470" alt="Screen Shot 2023-04-11 at 1 04 35 AM" src="https://user-images.githubusercontent.com/119825654/231098397-c1f94955-a3d8-4176-86c8-df45b3ec0a79.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 1 05 27 AM" src="https://user-images.githubusercontent.com/119825654/231098409-6604bc08-0ac5-4c6e-8b2f-543d9be8b747.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 1 05 38 AM" src="https://user-images.githubusercontent.com/119825654/231098427-4ae3b8aa-5695-43e5-ae60-fca16d651b84.png">
-
+<img width="1470" alt="Screen Shot 2023-04-11 at 2 08 32 AM" src="https://user-images.githubusercontent.com/119825654/231126228-8d41be99-f9ff-4334-a685-727c7d823117.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 1 29 39 AM" src="https://user-images.githubusercontent.com/119825654/231102573-7e0405f9-c6ea-4f0f-a211-2467f02016b7.png">
 
 
  
