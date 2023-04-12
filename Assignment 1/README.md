@@ -166,7 +166,7 @@ The website/app should prevent errors from occurring and check with users using 
 
 The app underlines words spelled incorrectly and sometimes self-corrects the misspelled words. When typing a message or creating a video, the app does not let you create drafts and deletes what you have created already (2).
 
-*Improvements: Committ to just underlining misspelled words because spellcheck may try to correct words, such as names, when they are not inncorrect in the first place. Add a draft option.*
+*Improvements: Committ to just underlining misspelled words because spellcheck may try to correct words, such as names, when they are not incorrect in the first place. Add a draft option.*
 
 ## 6. Recognition Rather than Recall 
 The website/app makes information easily accessible without have to remember an icons.
