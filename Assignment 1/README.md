@@ -100,9 +100,9 @@ The side navigation bar has many tabs/icons. This may be overwhelming for users 
 ## 9. Help users recognize, diagnose, and recover from errors
 The website/app should display error messages using plain language. 
 
-If the user enters the wrong password or email, its "Check your username or password" in a red bar. (0)
+If the user enters the wrong password or email, its "Check your username or password" in a red bar. It does not let users know whether the email or password they put in is incorrect. (1)
 
-*Improvements: No recommendations for improvements.*
+*Improvements: Notify users whether their inputted email or password is incorrect.*
 
 ## 10. Help and Documentation
 Website/app should have easily accessible help pages. 
@@ -129,6 +129,9 @@ MarcoPolo is an a a video chat app that allows users to privately and easily con
 <img width="1470" alt="Screen Shot 2023-04-11 at 6 24 46 PM" src="https://user-images.githubusercontent.com/119825654/231324746-47347522-c903-4f91-951b-c64f4c2fb59d.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 6 28 46 PM" src="https://user-images.githubusercontent.com/119825654/231324748-71a49fa5-c8d7-4f37-87fd-d4820e2cec95.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 6 28 50 PM" src="https://user-images.githubusercontent.com/119825654/231324752-0891296b-5bb6-4611-994e-00a85c94f881.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 8 09 41 PM" src="https://user-images.githubusercontent.com/119825654/231342994-1dc2cb84-49c5-4b06-a5f1-76d8639c3863.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 8 25 44 PM" src="https://user-images.githubusercontent.com/119825654/231343005-cdbeb832-7afb-4a9e-b495-5eabfc380858.png">
+
 
 ## 1. Visibility of System Status   
 The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner.
@@ -154,5 +157,50 @@ If the user changed their mind about sending an invite, they can click the "canc
 ## 4. Consistency and Standards 
 The website/app words, phrases, and actions aligns with conventions that other websites also use.
 
+The app uses common phrases that is consistent with other websites/apps such as "Contacts" and "Suggested". In addition, universally known icons (house, avatar, and gear) are utilized. But the panel to control which page you are on is at the bottom of the screen. Also, there is no sign out that is usually in the settings of many websites and apps. There is a section called "Bookmarked Polos" where users can bookmark certain videos. While this phrase is relevant to the app name it can be confusing for users to understand what this is, requiring them to research it. When clicking on the vertical ellipsis next to a chat on the home page, the option "Set Chat Tile" is available. This is feature is for users to set profile photos for the people they are chatting with. It is confusing as this phrase is not common in other chat apps or websites. (3)
 
+*Improvements Move the panel to the top of the app to be more consistent with other website/apps. This will help the user be more comfortable with using the app, especially if it is their first time. Include a sign out option in the "Settings". Change "Bookedmarked Polos" to "Favorited" or "Saved". Change "Set Chat Tile" to "Add Profile Picture" instead.* 
 
+## 5. Error Prevention
+The website/app should prevent errors from occurring and check with users using confirmation. 
+
+The app underlines words spelled incorrectly and sometimes self-corrects the misspelled words. When typing a message or creating a video, the app does not let you create drafts and deletes what you have created already (2).
+
+*Improvements: Committ to just underlining misspelled words because spellcheck may try to correct words, such as names, when they are not inncorrect in the first place. Add a draft option.*
+
+## 6. Recognition Rather than Recall 
+The website/app makes information easily accessible without have to remember an icons.
+
+The app allows users to add their contacts into Marco Polo and even has suggestions on who they should invite into the app. (0)
+
+*Improvements: No recommendations for improvement.*
+
+## 7. Flexibility and Efficiency of Use 
+The website/app has processes and shortcuts that allow novice users to become experts.
+
+The app allows users to access their contacts through the app and easily invite them through a pre-copied link. In addition, they have a section where it has "Suggested" contacts that the users should invite to expand their network. (0)
+
+*Improvements: No recommendations for improvement.*
+
+## 8. Aesthetic and Minimalist Design
+Website/app should not contain irrelevant information. 
+
+Most of the information presented on the app is essential to the goal of video chatting messages. The interface is very simple with legible font and a white background. After clicking on the veritcal ellipsis on a specific group/person you are chatting with, it presents you with 5-6 options depending if you input the group/individual to have a photo. There are too many options available, leading to the user feeling possibly overwhelmed. In addition, the "Start a Group" and "Add _ to Plus Family" are unneccessary. Also, the "block" and "delete" options are combined into one which could lead to mistakes. (3)
+
+*Improvements: Decrease the amount of options available for each chat. Separate the block and delete options. *
+
+## 9. Help users recognize, diagnose, and recover from errors
+The website/app should display error messages using plain language. 
+
+If the user types in an invalid phone number, an error message immediately pops up and explains that it is invalid and asks for the user to try again. (0)
+
+*Improvements: No recommendations for improvement.*
+
+## 10. Help and Documentation
+Website/app should have easily accessible help pages.
+
+The "Help" page can be accessed through the Settings Page and has its own defined tab. After clicking the "Help" tab, the "FAQs", "Accessibility", and "Contact Us" pages can be seen. (0)
+
+*Improvements: No recommendations for improvement.*
+
+*Overall: The intention of the app is very useful for busy individuals but some major changes have to occurr in order for users to have a smooth and easy experience navigating the app and doing simple tasks such as signing out. The major changes that should occur are mainly seen in User Control and Freedom and Consistency and Standards.*
