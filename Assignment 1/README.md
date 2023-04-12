@@ -125,6 +125,10 @@ MarcoPolo is an a a video chat app that allows users to privately and easily con
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 48 AM" src="https://user-images.githubusercontent.com/119825654/231140057-3e48a815-f870-4cc9-bec0-9f92ab8c7d7a.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 55 00 AM" src="https://user-images.githubusercontent.com/119825654/231140086-db4dc327-9bcb-4202-83ea-0c3d58e89d0f.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 5 55 36 PM" src="https://user-images.githubusercontent.com/119825654/231320040-f274db07-ee34-45a6-87d8-321d4bd2ef7c.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 6 24 15 PM" src="https://user-images.githubusercontent.com/119825654/231324742-549f1ee7-69e2-404e-a9ee-326331022b41.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 6 24 46 PM" src="https://user-images.githubusercontent.com/119825654/231324746-47347522-c903-4f91-951b-c64f4c2fb59d.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 6 28 46 PM" src="https://user-images.githubusercontent.com/119825654/231324748-71a49fa5-c8d7-4f37-87fd-d4820e2cec95.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 6 28 50 PM" src="https://user-images.githubusercontent.com/119825654/231324752-0891296b-5bb6-4611-994e-00a85c94f881.png">
 
 ## 1. Visibility of System Status   
 The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner.
