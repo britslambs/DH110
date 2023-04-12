@@ -111,7 +111,7 @@ There is no help tab on the side navigation bar. There is the word "support" at 
 
 *Improvements: Instead of "support" it should be the word "help". Also, it should be added to the side navigation bar for easy accessibility.*
 
-*Overall, I believe that this website can be easily used for all individuals. However, some major changes such as the side tab overload and "help" page need to be improved in order for the user to smoothly navigate the website.
+***Overall, I believe that this website can be easily used for all individuals. However, some major changes such as the side tab overload and "help" page need to be improved in order for the user to smoothly navigate the website.***
 
 ## b) Marco Polo 
 https://apps.apple.com/us/app/marco-polo-video-selfie-chat/id912561374
@@ -203,4 +203,4 @@ The "Help" page can be accessed through the Settings Page and has its own define
 
 *Improvements: No recommendations for improvement.*
 
-*Overall: The intention of the app is very useful for busy individuals but some major changes have to occurr in order for users to have a smooth and easy experience navigating the app and doing simple tasks such as signing out. The major changes that should occur are mainly seen in User Control and Freedom and Consistency and Standards.*
+***Overall: The intention of the app is very useful for busy individuals but some major changes have to occurr in order for users to have a smooth and easy experience navigating the app and doing simple tasks such as signing out. The major changes that should occur are mainly seen in User Control and Freedom and Consistency and Standards.***
