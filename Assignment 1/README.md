@@ -18,7 +18,7 @@ In this assignment, I will be conducting two heuristic evaluations using the 10 
 
 credit: (https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
-## 1) FamilyWall 
+## a) FamilyWall 
 
 https://play.google.com/store/apps/details?id=family.connect.app
 
@@ -111,10 +111,12 @@ There is no help tab on the side navigation bar. There is the word "support" at 
 
 *Improvements: Instead of "support" it should be the word "help". Also, it should be added to the side navigation bar for easy accessibility.*
 
-## 2) Marco Polo 
+## b) Marco Polo 
 https://apps.apple.com/us/app/marco-polo-video-selfie-chat/id912561374
 
 *About*
+
+MarcoPolo is an a a video chat app that allows users to privately and easily connect with their close family and friends. The creators of the app emphasized that it is designed for busy people. You can send live messages to family or friends and they can reply in real-time. If they are busy these messages will be saved. 
 
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 32 AM" src="https://user-images.githubusercontent.com/119825654/231139913-ee6a9771-70aa-445b-8e5c-41debf848b15.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 40 AM" src="https://user-images.githubusercontent.com/119825654/231140028-a2995bc0-92b8-448e-a0a4-f7ec1cae3935.png">
