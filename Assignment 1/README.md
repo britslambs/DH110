@@ -159,7 +159,7 @@ The website/app words, phrases, and actions aligns with conventions that other w
 
 The app uses common phrases that is consistent with other websites/apps such as "Contacts" and "Suggested". In addition, universally known icons (house, avatar, and gear) are utilized. But the panel to control which page you are on is at the bottom of the screen. Also, there is no sign out that is usually in the settings of many websites and apps. There is a section called "Bookmarked Polos" where users can bookmark certain videos. While this phrase is relevant to the app name it can be confusing for users to understand what this is, requiring them to research it. When clicking on the vertical ellipsis next to a chat on the home page, the option "Set Chat Tile" is available. This is feature is for users to set profile photos for the people they are chatting with. It is confusing as this phrase is not common in other chat apps or websites. (3)
 
-*Improvements Move the panel to the top of the app to be more consistent with other website/apps. This will help the user be more comfortable with using the app, especially if it is their first time. Include a sign out option in the "Settings". Change "Bookedmarked Polos" to "Favorited" or "Saved". Change "Set Chat Tile" to "Add Profile Picture" instead.* 
+*Improvements: Move the panel to the top of the app to be more consistent with other website/apps. This will help the user be more comfortable with using the app, especially if it is their first time. Include a sign out option in the "Settings". Change "Bookedmarked Polos" to "Favorited" or "Saved". Change "Set Chat Tile" to "Add Profile Picture" instead.* 
 
 ## 5. Error Prevention
 The website/app should prevent errors from occurring and check with users using confirmation. 
@@ -187,7 +187,7 @@ Website/app should not contain irrelevant information.
 
 Most of the information presented on the app is essential to the goal of video chatting messages. The interface is very simple with legible font and a white background. After clicking on the veritcal ellipsis on a specific group/person you are chatting with, it presents you with 5-6 options depending if you input the group/individual to have a photo. There are too many options available, leading to the user feeling possibly overwhelmed. In addition, the "Start a Group" and "Add _ to Plus Family" are unneccessary. Also, the "block" and "delete" options are combined into one which could lead to mistakes. (3)
 
-*Improvements: Decrease the amount of options available for each chat. Separate the block and delete options. *
+*Improvements: Decrease the amount of options available for each chat. Separate the block and delete options.*
 
 ## 9. Help users recognize, diagnose, and recover from errors
 The website/app should display error messages using plain language. 
