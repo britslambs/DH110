@@ -111,6 +111,8 @@ There is no help tab on the side navigation bar. There is the word "support" at 
 
 *Improvements: Instead of "support" it should be the word "help". Also, it should be added to the side navigation bar for easy accessibility.*
 
+*Overall, I believe that this website can be easily used for all individuals. However, some major changes such as the side tab overload and "help" page need to be improved in order for the user to smoothly navigate the website.
+
 ## b) Marco Polo 
 https://apps.apple.com/us/app/marco-polo-video-selfie-chat/id912561374
 
@@ -122,3 +124,31 @@ MarcoPolo is an a a video chat app that allows users to privately and easily con
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 40 AM" src="https://user-images.githubusercontent.com/119825654/231140028-a2995bc0-92b8-448e-a0a4-f7ec1cae3935.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 54 48 AM" src="https://user-images.githubusercontent.com/119825654/231140057-3e48a815-f870-4cc9-bec0-9f92ab8c7d7a.png">
 <img width="1470" alt="Screen Shot 2023-04-11 at 3 55 00 AM" src="https://user-images.githubusercontent.com/119825654/231140086-db4dc327-9bcb-4202-83ea-0c3d58e89d0f.png">
+<img width="1470" alt="Screen Shot 2023-04-11 at 5 55 36 PM" src="https://user-images.githubusercontent.com/119825654/231320040-f274db07-ee34-45a6-87d8-321d4bd2ef7c.png">
+
+## 1. Visibility of System Status   
+The website/app informs the user of the current status of what is happening and what actions they are taking in a timely manner.
+
+The user can see what page of the app they are on by looking at the bottom of the screen. There are three icons: a house, an avatar, and a gear. When on the home page, users can clearly see their separate messages and which individuals they are chatting with. In addition, you are able to see the name of group chats. (2)
+
+*Improvements: Icons that indicate which page the users are on should be at the top of the screen for easy viewing.*
+
+## 2. Match Between Systems and the Real World
+The website/app should be utilizing words and presenting concepts in a way that mirrors real-life. 
+
+The tabs such as "Contacts" and "Suggested" on the home page are universally used. The icons used at the bottom of the screen easily reflect what they represent. However, the tab option "Advanced" in the settings page can be confusing since it is a vague term. The "Advanced" option contains: Privacy mode, Background Listening, Microphone, and Bluetooth options. (2)
+
+*Improvements: Rename this tab to "Sounds" or "Audio".
+
+## 3. User Control and Freedom 
+The website/app allows users to easily undo or delete an option.
+
+If the user changed their mind about sending an invite, they can click the "cancel" button. However, there is no option to delete a message. In the upper right hand corner, there is a pencil icon. This gives an impression that you can edit the message you sent. But, this icon is to give the user a "scratchpad" so they can jot down notes for when you record messsages. (3)
+
+*Improvements: Add an option that users can edit the video messages that they send. In addition, change the scratchpad icon or put this option at bottom of the screen to not confuse the user.*
+
+## 4. Consistency and Standards 
+The website/app words, phrases, and actions aligns with conventions that other websites also use.
+
+
+
