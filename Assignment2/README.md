@@ -14,7 +14,7 @@ In the tasks I created for the UT, I focused on the Consistency and Standards, U
 
 The usability test will be conducted in my room, a quiet place that will be suitable for this study. I will be using my Macbook Air Laptop and having Zoom be my video-recording platform. 
 
-The user and I will set next to each other for the entirety of the UT. I will be telling the user about background information and consent rights. The user will be completing the consent,pre-test, post-test, tasks, SUS, product satisfaction, and demographic sections. 
+The user and I will set next to each other for the entirety of the UT. I will be telling the user about background information and consent rights. The user will be completing the consent, pre-test, post-test, tasks, SUS, product satisfaction, and demographic sections. 
 
 ## Links
 
@@ -27,3 +27,7 @@ I have shared with video with Dr. Cho's email.
 Also shared with Dr. Cho's email. 
 
 ## Reflection
+
+Overall, the UT went very smoothly. The user was able to complete Tasks 1 and 2 very easily. Despite my previous critiques of these heuristics that the first two tasks are correlated with, the user presented no struggle. The user did expectedly struggle for Task 3. During the time I was creating my evaluation and questions, there was a very small button at the bottom of the site that said "support". However, when the user tried finding where the "Help" section is the "support" button was gone all together. During Task 3, the user was evidently struggling with finding where the "Help" section could be, leading her to have to find another method to finding where the price of the premium membership is. She ultimately could not find the FAQ page. The user's experience with Task 3 confirmed how I believed it was a major issue of the website. This issue continues to be emphasized as she responded that she would be "somewhat likely" to go to the "Help" page.
+
+I believe that this user was a great participant for this UT because her technical skills are middle ground as she is neither very advanced or uneducated about using technology. Despite Task 3, she considered her experience with FamilyWall to be "calm, familiar, innovative, professional, and trustworthy. Overall, I believe that this experience was very beneficial as I was able to witness a participant using the website for the very first time. I was able to truly see their perspective and thought process while answering the tasks and navigating the website. 
