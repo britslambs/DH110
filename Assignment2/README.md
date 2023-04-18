@@ -15,7 +15,7 @@ The purpose of pilot usability testing is to improve the user experience of the 
 
 [Pilot Testing Video](https://photos.app.goo.gl/9Y3ZSdgvFrvAWx6D9) 
 
-I have also shared with video with Dr. Cho's email.
+I have shared with video with Dr. Cho's email.
 
 [UT Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc_XpjEgxZQ4J4-rIJmJdnS3EHh8Hj4ut9qlBjBmqsjUtbmiw/viewform?vc=0&c=0&w=1&flr=0)
 
