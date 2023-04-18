@@ -14,7 +14,7 @@ In the tasks I created for the UT, I focused on the Consistency and Standards, U
 
 The usability test will be conducted in my room, a quiet place that will be suitable for this study. I will be using my Macbook Air Laptop and having Zoom be my video-recording platform. 
 
-The user and I will set next to each other for the entirety of the UT. I will be telling the user about background information and consent rights. The user will be completing the consent, pre-test, post-test, tasks, SUS, product satisfaction, and demographic sections. 
+The user and I will sit next to each other for the entirety of the UT. I will be telling the user about background information and consent rights. The user will be completing the consent, pre-test, post-test, tasks, SUS, product satisfaction, and demographic sections. 
 
 ## Links
 
