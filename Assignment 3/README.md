@@ -52,24 +52,34 @@ I was able to gain some very interesting points from the participatory observati
 
 1) Question: What do you like to share with your family and friends? Are there any particular categories of interest that you like to share with others? 
    
-   >"In terms of interest, family and friends would be divided into two different groups. The family would be just either talking about other family or just major life events like, oh, got a new job, or oh, did you hear what's going on with your cousin or something. Friends, I just talked to them either about making plans to go meet outside or stuff like common interests like memes or games or music or movies, stuff like that. More like pop culture things, I guess."
+   >"In terms of interest, family and friends would be divided into two different groups. The family would be just either talking about other family or just major life events like, "oh, got a new job", or "oh, did you hear what's going on with your cousin" or something. Friends, I just talked to them either about making plans to go meet outside or stuff like common interests like memes or games or music or movies, stuff like that. More like pop culture things, I guess."
+ 
+  *His response was very insightful as he pointed out that there is a difference in what he shares with friends and family. I wanted to know these to understand what priorities should be on a family-centered app. Popular social media apps today blend both together (families and friends), while I want to create an app that is useful for families and could help them further connect with each other by starting to share interests with each other that they maybe haven't shared before.*
    
 2) Question: Do you like sharing media that you enjoy with others? And if so, what type of media? 
 
    >"Yeah, it sort of just depends on the circle of people because I do have good friends that I know that even though we're close and everything, I know we don't align a lot in some of our interests. So if I'm interested in sort of a video game or a piece of music that I'm really cool with, there's some people I'll share with and others that I wouldn't. So like the last question answered it's more based on per person kind of thing."
    
-3) Question: [Discussing his most used social media apps] How well do these apps work, in your opinion? In terms of being able to connect with family and friends?
-
-    >"Yeah, pretty well for my purposes, I'm not doing anything complicated like live streaming or having to do anything else. It's, a lot of it is just sending out a few text messages or, you know, a few pictures. So nothing really hinders me too much. When I do use Discord, since I don't have any sort of like premium, I don't have the Nitro premium version of it, it does limit the file size I can send. I think before it was only eight megabytes, so I'd have to either downscale like some sort of image or video. They did recently increase the free version to 25 megabytes, but for the longest time that was like a big hindrance to me. Just like the ability not to share larger files on that platform."
+   *The participant expresses that he likes to share certain interests with people and not others. This was helpful because a direct message/interesting sharing feature could be a desired feature for users. In addition, his mention of video games also gives me an idea of adding a Gaming interest category that could have both mobile games and desktop games as subcategories to dicuss and share.*
     
-4) Question: What features of a website like this would you look for such as sharing features or like a chat box? 
+3) Question: What features of a website like this would you look for such as sharing features or like a chat box? 
    
      >"Yeah, I mean some sort of chat box or video in or voice call, something like that that's already integrated in like I already mentioned before, I had issues with the discord live streaming. So I'd like
 for the live stream to not be so choppy and for that to actually work properly. So those would be some of the things I would like to look into. Of course, also I wouldn't want to download anything that we would have extensive ads or something that would ruin the whole viewing experience that I want to start."
 
-5) Question: Would you find it convenient if this feature or this music sharing aspect was integrated into another app such as messenger or Instagram? 
+*His response was very thoughtful as he mentions that having chatbox and voice call features would be his priorities when looking for a movie/show streaming website. After hearing this, I know to priortize this when creating my movie sharing feature. In addition, if my app needed to run ads, it would be important to run them periodically to not inconvenient the user and cause them to move to a different app.*
+
+4) Question: Would you find it convenient if this feature or this music sharing aspect was integrated into another app such as messenger or Instagram? 
 
      >"To an extent, maybe. Messenger and Instagram don't really have any foothold in music. They're more just either for direct messaging each other or images. So I feel like trying to tack on an extra music social part of each of them would kind of just clutter the app and I don't think would make sense in my opinion. I just like to see Spotify just expand its sort of repertoire to include more of a social interaction between users." 
+     
+*This is an interesting response because I expected his answer be "Yes". However, it emphasized the minimalistic importance of an app when he said that adding too many features would "clutter the app". Therefore, I have to prioritize the amount of interest categories to put in my app design in order to not overwhelm the user. Overall, this was a wake up call for me as I was very ambitious in creating interest categories prior to conducting this interview.*
  
 
 # Reflection ✔️
+  
+  This user research process felt a lot more natural than the Pilot Testing because it was more of a conversation. Therefore, my results are more informative and allowed me to step into the position of my participant more naturally. My participant belonged to a different demographic compared to my UT. My previous participant is a 21 year old, third-year UCLA student while my participant for user research is a 26 year old, working man. Now, I am able to have the perspective of two very different individuals and their values of connecting with friends and family members. Also, this participant was more talkative as he walked me through each step of performing the tasks and explained to me in detail regarding his opinions of current social media apps and methods of communicating. 
+  
+  Throughout the interview, I found myself having to change my script questions a little bit, which was expected. However, I was able to follow along my script relatively closely. 
+  
+  A memorable insight during this interview was when I asked if he would find it convenient if music/movie sharing features were integrated in the current apps he uses. While I expected him to say "yes", he mentions that it only be appropriate to a certain extent and would make sense on some apps compared to others. He mentions that it could also cause the app to be too cluttered. This was a very humbling statement to hear as it has caused me to reassess my priorties when creating the app design since I had previously planned to have categories and subcategories. 
