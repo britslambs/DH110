@@ -22,7 +22,7 @@ Users would do this activity on a daily or weekly basis, updating their close ne
 Users can easily post life updates, link videos, and share interests.
 
 # Step 3: Pick a Qualitative Research Method ✔️
-I plan to collect information with my participant over a recorded Zoom interview. I chose two methods for collecting data: participatory observation and interview. Within the interview I asked questions within the following sections:
+I planned to collect information with my participant over a recorded Zoom interview. I chose two methods for collecting data: participatory observation and interview. Within the interview I asked questions within the following sections:
 
 **1.Introduction/Background Information** 
 I provided the participant with an introduction about what this user research was about. I then began to ask questions regarding how they connect social media with their relationships in the lives such as family members and close friends.
@@ -58,13 +58,13 @@ I was able to gain some very interesting points from the participatory observati
    
    >"In terms of interest, family and friends would be divided into two different groups. The family would be just either talking about other family or just major life events like, "oh, got a new job", or "oh, did you hear what's going on with your cousin" or something. Friends, I just talked to them either about making plans to go meet outside or stuff like common interests like memes or games or music or movies, stuff like that. More like pop culture things, I guess."
  
-  *His response was very insightful as he pointed out that there is a difference in what he shares with friends and family. I wanted to know these to understand what priorities should be on a family-centered app. Popular social media apps today blend both together (families and friends), while I want to create an app that is useful for families and could help them further connect with each other by starting to share interests with each other that they maybe haven't shared before.*
+  *His response was very insightful as he pointed out that there is a difference in what he shares with friends and family. I wanted to know this to understand what priorities should be on a family-centered app. Popular social media apps today blend both together (families and friends), while I want to create an app that is useful for families and could help them further connect with each other through starting to share interests with each other that they maybe haven't shared before.*
    
 2) Question: Do you like sharing media that you enjoy with others? And if so, what type of media? 
 
    >"Yeah, it sort of just depends on the circle of people because I do have good friends that I know that even though we're close and everything, I know we don't align a lot in some of our interests. So if I'm interested in sort of a video game or a piece of music that I'm really cool with, there's some people I'll share with and others that I wouldn't. So like the last question answered it's more based on per person kind of thing."
    
-   *The participant expresses that he likes to share certain interests with people and not others. This was helpful because a direct message/interesting sharing feature could be a desired feature for users. In addition, his mention of video games also gives me an idea of adding a Gaming interest category that could have both mobile games and desktop games as subcategories to dicuss and share.*
+  *The participant expresses that he likes to share certain interests with people and not others. This was helpful because a direct message/interesting sharing feature could be a desired feature for users. In addition, his mention of video games also gives me an idea of adding a Gaming interest category that could have both mobile games and desktop games as subcategories to dicuss and share.*
     
 3) Question: What features of a website like this would you look for such as sharing features or like a chat box? 
    
