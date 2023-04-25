@@ -23,11 +23,20 @@ Users can easily post life updates, link videos, and share interests.
 
 # Step 3: Pick a Qualitative Research Method
 I plan to collect information with my participant over a recorded Zoom interview. Within the interview I asked questions within the following sections:
-*1.Introduction/Background Information*
-*2.Contextual Inquiry*
-*3.User Activties*
-*4.Problem Questions*
-*5.Closing Questions*
+
+**1.Introduction/Background Information**
+
+
+**2.Contextual Inquiry**
+
+
+**3.User Activties**
+
+
+**4.Problem Questions**
+
+
+**5.Closing Questions**
 
 # Interview Guide ✔️
 The link to the interview script can be found here: (https://docs.google.com/document/d/1C-99NowToVRZoS1UjX8HokGO2R8ztc57xj39Dfu8UDc/edit?usp=sharing)
