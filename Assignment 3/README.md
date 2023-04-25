@@ -15,9 +15,9 @@ Limitations that could be improved is that many of these popular social media ap
 
 # Step 2: Target Users ✔️
 ### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
-I want to create a website that all members of a family could use, regardless of age and technological expertise. Specifically, I had in mind a college student or a member that lives further away that can easily provide their family with updates that would not get lose in text messages or emails. This app idea is not niche, therefore, it would be created in hopes of being mainstream. 
+I want to create a website that all members of a family could use, regardless of age and technological expertise. Specifically, I had in mind a college student or a family member that lives further away that can easily provide their family with updates that would not get lose in text messages or emails. This app idea is not niche, therefore, it would be created in hopes of being mainstream. Users of this app would have the desire to continue or strengthen their connection with their family.
 ### In which context (where, why, under which conditions) would the users do that activity? 
-Users would do this activity on a weekly basis, updating their close network of loved ones with any life updates or new recommendations such as music, tv shows, recipes, etc. Ideally, users would be able to use this app on desktop or mobile.
+Users would do this activity on a daily or weekly basis, updating their close network of loved ones with any life updates or new recommendations such as music, tv shows, recipes, etc. Ideally, users would be able to use this app on desktop or mobile.
 ### What would the users usually do in order to complete that activity? 
 Users can easily post life updates, link videos, and share interests.
 
