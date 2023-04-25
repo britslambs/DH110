@@ -21,9 +21,11 @@ Limitations that could be improved is that many of these popular social media ap
 # Step 3: Pick a Qualitative Research Method
 
 # Interview Guide ✔️
-The link to the interview script can be found here: 
+The link to the interview script can be found here: (https://docs.google.com/document/d/1C-99NowToVRZoS1UjX8HokGO2R8ztc57xj39Dfu8UDc/edit?usp=sharing)
+
 
 The link to the recording can be found here: (https://photos.google.com/u/1/share/AF1QipONSpEhysCfTgVeyD_E9IjXVIwKYRX-N6OPf8qTF6bgK3uPFCiUJCLIxe5CBokPwQ)
+
 
 The link to the transcription can be found here:
 (https://docs.google.com/document/d/1A4p8QGBAgufGxcFQREJpcEhAiuTS88xCAYNlbsGtYXc/edit?usp=sharing)
