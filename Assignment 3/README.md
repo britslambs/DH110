@@ -29,12 +29,16 @@ I provided the participant with an introduction about what this user research wa
 
 
 **2.Contextual Inquiry/Activities**
+
+
 I asked the user to perform certain tasks on websites that would allow streaming/music sharing with other users since this falls into one of the interest that families can pick on my proposed app. The participant did this activity in his home, a place where he usually takes the time to reach out and connect with his loved ones. During the task, he was instructed to think aloud and walk me through these tasks through his perspective.
 
 **3.Problem Questions**
+
 Next, I asked him about any issues he faced while doing the tasks on the websites of his choosing. In addition, I wanted insight from him regarding any general issues he faces when trying to stay in communication with family members.
 
 **4.Closing Questions**
+
 The last questions were follow up questions on his user opinion and any lingering thoughts he had at the end of the interview.
 
 # Interview Guide ✔️
@@ -78,7 +82,7 @@ for the live stream to not be so choppy and for that to actually work properly. 
 
 # Reflection ✔️
   
-  This user research process felt a lot more natural than the Pilot Testing because it was more of a conversation. Therefore, my results are more informative and allowed me to step into the position of my participant more naturally. My participant belonged to a different demographic compared to my UT. My previous participant is a 21 year old, third-year UCLA student while my participant for user research is a 26 year old, working man. Now, I am able to have the perspective of two very different individuals and their values of connecting with friends and family members. Also, this participant was more talkative as he walked me through each step of performing the tasks and explained to me in detail regarding his opinions of current social media apps and methods of communicating. 
+  This user research process felt a lot more natural than the Pilot Testing because it felt like a conversation. Therefore, my results are more informative and allowed me to step into the position of my participant more naturally. My participant belonged to a different demographic compared to my UT. My previous participant is a 21 year old, third-year UCLA student while my participant for user research is a 26 year old, working man. Now, I am able to have the perspective of two very different individuals and their values of connecting with friends and family members. Also, this participant was more talkative as he walked me through each step of performing the tasks and explained to me in detail regarding his opinions of current social media apps and methods of communicating. 
   
   Throughout the interview, I found myself having to change my script questions a little bit, which was expected. However, I was able to follow along my script relatively closely. 
   
