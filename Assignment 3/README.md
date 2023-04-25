@@ -21,7 +21,7 @@ Users would do this activity on a daily or weekly basis, updating their close ne
 ### What would the users usually do in order to complete that activity? 
 Users can easily post life updates, link videos, and share interests.
 
-# Step 3: Pick a Qualitative Research Method
+# Step 3: Pick a Qualitative Research Method ✔️
 I plan to collect information with my participant over a recorded Zoom interview. I chose two methods for collecting data: participatory observation and interview. Within the interview I asked questions within the following sections:
 
 **1.Introduction/Background Information** 
