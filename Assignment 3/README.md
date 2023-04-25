@@ -24,13 +24,14 @@ Users can easily post life updates, link videos, and share interests.
 # Step 3: Pick a Qualitative Research Method
 I plan to collect information with my participant over a recorded Zoom interview. Within the interview I asked questions within the following sections:
 
-**1.Introduction/Background Information**
+**1.Introduction/Background Information** 
+I provided the participant with an introduction about what this user research was about. I then began to ask questions regarding how they connect social media with their relationships in the lives such as family members and close friends.
 
 
 **2.Contextual Inquiry**
 
 
-**3.User Activties**
+**3.Observation**
 
 
 **4.Problem Questions**
