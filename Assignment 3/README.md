@@ -19,9 +19,15 @@ I want to create a website that all members of a family could use, regardless of
 ### In which context (where, why, under which conditions) would the users do that activity? 
 Users would do this activity on a weekly basis, updating their close network of loved ones with any life updates or new recommendations such as music, tv shows, recipes, etc. Ideally, users would be able to use this app on desktop or mobile.
 ### What would the users usually do in order to complete that activity? 
-Users can easily post updates and link videos.
+Users can easily post life updates, link videos, and share interests.
 
 # Step 3: Pick a Qualitative Research Method
+I plan to collect information with my participant over a recorded Zoom interview. Within the interview I asked questions within the following sections:
+*1.Introduction/Background Information*
+*2.Contextual Inquiry*
+*3.User Activties*
+*4.Problem Questions*
+*5.Closing Questions*
 
 # Interview Guide ✔️
 The link to the interview script can be found here: (https://docs.google.com/document/d/1C-99NowToVRZoS1UjX8HokGO2R8ztc57xj39Dfu8UDc/edit?usp=sharing)
