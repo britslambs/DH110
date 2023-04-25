@@ -22,13 +22,13 @@ Users would do this activity on a weekly basis, updating their close network of 
 Users can easily post life updates, link videos, and share interests.
 
 # Step 3: Pick a Qualitative Research Method
-I plan to collect information with my participant over a recorded Zoom interview. Within the interview I asked questions within the following sections:
+I plan to collect information with my participant over a recorded Zoom interview. I chose two methods for collecting data: participatory observation and interview. Within the interview I asked questions within the following sections:
 
 **1.Introduction/Background Information** 
 I provided the participant with an introduction about what this user research was about. I then began to ask questions regarding how they connect social media with their relationships in the lives such as family members and close friends.
 
 
-**2.Contextual Inquiry/Activties**
+**2.Contextual Inquiry/Activities**
 I asked the user to perform certain tasks on websites that would allow streaming/music sharing with other users since this falls into one of the interest that families can pick on my proposed app. The participant did this activity in his home, a place where he usually takes the time to reach out and connect with his loved ones. During the task, he was instructed to think aloud and walk me through these tasks through his perspective.
 
 **3.Problem Questions**
@@ -48,5 +48,28 @@ The link to the transcription can be found here:
 (https://docs.google.com/document/d/1A4p8QGBAgufGxcFQREJpcEhAiuTS88xCAYNlbsGtYXc/edit?usp=sharing)
 
 # Insights ✔️
+I was able to gain some very interesting points from the participatory observation and interview:
+
+1) Question: What do you like to share with your family and friends? Are there any particular categories of interest that you like to share with others? 
+   
+   >"In terms of interest, family and friends would be divided into two different groups. The family would be just either talking about other family or just major life events like, oh, got a new job, or oh, did you hear what's going on with your cousin or something. Friends, I just talked to them either about making plans to go meet outside or stuff like common interests like memes or games or music or movies, stuff like that. More like pop culture things, I guess."
+   
+2) Question: Do you like sharing media that you enjoy with others? And if so, what type of media? 
+
+   >"Yeah, it sort of just depends on the circle of people because I do have good friends that I know that even though we're close and everything, I know we don't align a lot in some of our interests. So if I'm interested in sort of a video game or a piece of music that I'm really cool with, there's some people I'll share with and others that I wouldn't. So like the last question answered it's more based on per person kind of thing."
+   
+3) Question: [Discussing his most used social media apps] How well do these apps work, in your opinion? In terms of being able to connect with family and friends?
+
+    >"Yeah, pretty well for my purposes, I'm not doing anything complicated like live streaming or having to do anything else. It's, a lot of it is just sending out a few text messages or, you know, a few pictures. So nothing really hinders me too much. When I do use Discord, since I don't have any sort of like premium, I don't have the Nitro premium version of it, it does limit the file size I can send. I think before it was only eight megabytes, so I'd have to either downscale like some sort of image or video. They did recently increase the free version to 25 megabytes, but for the longest time that was like a big hindrance to me. Just like the ability not to share larger files on that platform."
+    
+4) Question: What features of a website like this would you look for such as sharing features or like a chat box? 
+   
+     >"Yeah, I mean some sort of chat box or video in or voice call, something like that that's already integrated in like I already mentioned before, I had issues with the discord live streaming. So I'd like
+for the live stream to not be so choppy and for that to actually work properly. So those would be some of the things I would like to look into. Of course, also I wouldn't want to download anything that we would have extensive ads or something that would ruin the whole viewing experience that I want to start."
+
+5) Question: Would you find it convenient if this feature or this music sharing aspect was integrated into another app such as messenger or Instagram? 
+
+     >"To an extent, maybe. Messenger and Instagram don't really have any foothold in music. They're more just either for direct messaging each other or images. So I feel like trying to tack on an extra music social part of each of them would kind of just clutter the app and I don't think would make sense in my opinion. I just like to see Spotify just expand its sort of repertoire to include more of a social interaction between users." 
+ 
 
 # Reflection ✔️
