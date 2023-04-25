@@ -25,7 +25,8 @@ The link to the interview script can be found here:
 
 The link to the recording can be found here: (https://photos.google.com/u/1/share/AF1QipONSpEhysCfTgVeyD_E9IjXVIwKYRX-N6OPf8qTF6bgK3uPFCiUJCLIxe5CBokPwQ)
 
-The link to the transcription can be found here: (https://docs.google.com/document/d/1A4p8QGBAgufGxcFQREJpcEhAiuTS88xCAYNlbsGtYXc/edit?usp=sharing)
+The link to the transcription can be found here:
+(https://docs.google.com/document/d/1A4p8QGBAgufGxcFQREJpcEhAiuTS88xCAYNlbsGtYXc/edit?usp=sharing)
 
 # Insights ✔️
 
