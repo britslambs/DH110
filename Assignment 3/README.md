@@ -28,16 +28,14 @@ I plan to collect information with my participant over a recorded Zoom interview
 I provided the participant with an introduction about what this user research was about. I then began to ask questions regarding how they connect social media with their relationships in the lives such as family members and close friends.
 
 
-**2.Contextual Inquiry**
+**2.Contextual Inquiry/Activties**
+I asked the user to perform certain tasks on websites that would allow streaming/music sharing with other users since this falls into one of the interest that families can pick on my proposed app. The participant did this activity in his home, a place where he usually takes the time to reach out and connect with his loved ones. During the task, he was instructed to think aloud and walk me through these tasks through his perspective.
 
+**3.Problem Questions**
+Next, I asked him about any issues he faced while doing the tasks on the websites of his choosing. In addition, I wanted insight from him regarding any general issues he faces when trying to stay in communication with family members.
 
-**3.Observation**
-
-
-**4.Problem Questions**
-
-
-**5.Closing Questions**
+**4.Closing Questions**
+The last questions were follow up questions on his user opinion and any lingering thoughts he had at the end of the interview.
 
 # Interview Guide ✔️
 The link to the interview script can be found here: (https://docs.google.com/document/d/1C-99NowToVRZoS1UjX8HokGO2R8ztc57xj39Dfu8UDc/edit?usp=sharing)
