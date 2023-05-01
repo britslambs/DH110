@@ -6,4 +6,4 @@
 * Designers can create an emotional connection with the user as they map out their problems, goals, and resolutions.
 
 ## Personas and Empathy Maps 👥
-# Persona #1: 
+### Persona #1: 
