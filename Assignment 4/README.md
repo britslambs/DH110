@@ -29,9 +29,8 @@ Karina is currently a full-time, working student at Standford University. She lo
 
 After she gets home from class, she texts her parents and grandparents that she was able to get an A on a very difficult final exam. Next, she goes on to the main feed and posts an update that she was able to get the internship position she told her family about during spring break. Following, she looks through the main feed, which only takes a couple minutes since it is just from her close family members. Karina then goes to the messaging feature and texts the sibling group chat if they want to watch a movie tonight. After getting a confirmation from both siblings, they stream a movie togeher and type their reactions in the chat box. 
 
-#### Karina's Journey Map
-
 ![Untitled](https://user-images.githubusercontent.com/119825654/235614480-61696c3d-b270-4b50-ab60-2e80708b0c6f.png)
+
 ## 2. Claire's Scenario and Journey Map
 #### Why Claire is using this product
 
@@ -41,7 +40,7 @@ Claire is a business owner, yoga instructor, and a mom. She established her yoga
 
 After Claire and her husband finish eating dinner around 7pm, Claire likes to sit in bed, relax, and look through the app to see how her parents and kids are doing. She first goes to the main page to see everyone's updates and often replies on her children's posts to congratulate and show them support. Next, she'll text the family group chat to ask when everyone will be free tomorrow to video chat. Afterwards, she logs on to voice chat to begin playing a game wit her son. Since he is the furthest away from her, Claire wants to do any activity with him to keep their bond. She is happy because even though she might be confused about the instructions of the game, she's happy that she is spending quality time with her son. 
 
-#### Claire's Journey Map
+
 
 ## Reflection 💡
 Doing this persona activity, I was able to put myself in the head space of potential users. However, it was a little more difficult than I thought it would be. 
