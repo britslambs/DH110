@@ -40,7 +40,7 @@ Claire is a business owner, yoga instructor, and a mom. She established her yoga
 
 After Claire and her husband finish eating dinner around 7pm, Claire likes to sit in bed, relax, and look through the app to see how her parents and kids are doing. She first goes to the main page to see everyone's updates and often replies on her children's posts to congratulate and show them support. Next, she'll text the family group chat to ask when everyone will be free tomorrow to video chat. Afterwards, she logs on to voice chat to begin playing a game wit her son. Since he is the furthest away from her, Claire wants to do any activity with him to keep their bond. She is happy because even though she might be confused about the instructions of the game, she's happy that she is spending quality time with her son. 
 
-
+![Untitled (1)](https://user-images.githubusercontent.com/119825654/235623176-f3913633-06d9-4e31-b9d0-2441aedd4f61.png)
 
 ## Reflection 💡
-Doing this persona activity, I was able to put myself in the head space of potential users. However, it was a little more difficult than I thought it would be. 
+Doing this persona activity, I was able to put myself in the head space of potential users. However, it was a little more difficult than I thought it would be since I was putting myself in a position of others.
