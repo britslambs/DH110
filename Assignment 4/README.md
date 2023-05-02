@@ -11,3 +11,6 @@
 
 ### Persona #2: Claire Smith - Busy and Organized Mom of Three
 ![User Personas (1)](https://user-images.githubusercontent.com/119825654/235575243-2fbb844e-f92b-4cf9-9ecd-3569ebc9fbae.jpg)
+
+### Claire's Empathy Map
+![Frame 6](https://user-images.githubusercontent.com/119825654/235576884-74c4b1a1-9cb4-4fd7-8830-38a1931566d7.jpg)
