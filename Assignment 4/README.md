@@ -34,8 +34,13 @@ After she gets home from class, she texts her parents and grandparents that she 
 ## 2. Claire's Scenario and Journey Map
 #### Why Claire is using this product
 
+Claire is a business owner, yoga instructor, and a mom. She established her yoga studio in Seattle five years ago and loves her job. However, she dislikes how she has to spend more time away from her family. In addition, her children are either busy in school or living abroad, making it even more difficult to keep up with them. In addition, her husband also has a full time job as a realtor. Overall, she feels upset that the family is not as close anymore in recent years. Also, Claire prefers her life to be very structured and neat. As a result, she hates any disorganization and unnecessary clutter in her life which is why she only has three social media apps. However, she would prefer to have only one to keep in touch with the people she cares about the most. When her kids do come home, she would like to know everyone's schedule without having to ask multiple times in order to plan special family vacations. Therefore, Claire needs an app with a to-do list, calender, photo cloud, messaging, and video chatting. 
+
 #### How Claire is using this product
+
+After Claire and her husband finish eating dinner around 7pm, Claire likes to sit in bed, relax, and look through the app to see how her parents and kids are doing. She first goes to the main page to see everyone's updates and often replies on her children's posts to congratulate and show them support. Next, she'll text the family group chat to ask when everyone will be free tomorrow to video chat. Afterwards, she logs on to voice chat to begin playing a game wit her son. Since he is the furthest away from her, Claire wants to do any activity with him to keep their bond. She is happy because even though she might be confused about the instructions of the game, she's happy that she is spending quality time with her son. 
 
 #### Claire's Journey Map
 
 ## Reflection 💡
+Doing this persona activity, I was able to put myself in the head space of potential users. However, it was a little more difficult than I thought it would be. 
