@@ -9,8 +9,14 @@
 ### Persona #1: Karina Lu - Smart and Outgoing College Student
 ![User Personas](https://user-images.githubusercontent.com/119825654/235575062-1217294a-1e25-4526-88e2-9aab59929787.jpg)
 
+### Karina's Empathy Map 
+
 ### Persona #2: Claire Smith - Busy and Organized Mom of Three
 ![User Personas (1)](https://user-images.githubusercontent.com/119825654/235575243-2fbb844e-f92b-4cf9-9ecd-3569ebc9fbae.jpg)
 
 ### Claire's Empathy Map
 ![Frame 6](https://user-images.githubusercontent.com/119825654/235576884-74c4b1a1-9cb4-4fd7-8830-38a1931566d7.jpg)
+
+## Scenarios and Journey Map 🗺
+
+## Reflection 💡
