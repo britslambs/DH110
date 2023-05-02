@@ -43,4 +43,4 @@ After Claire and her husband finish eating dinner around 7pm, Claire likes to si
 ![Untitled (1)](https://user-images.githubusercontent.com/119825654/235623176-f3913633-06d9-4e31-b9d0-2441aedd4f61.png)
 
 ## Reflection 💡
-Doing this persona activity, I was able to put myself in the head space of potential users. However, it was a little more difficult than I thought it would be since I was putting myself in a position of others.
+Doing this persona activity, I was able to put myself in the head space of potential users. However, it was a little more difficult than I thought it would be since I was putting myself in a position of others. 
