@@ -23,7 +23,10 @@
 ## Karina's Scenario and Journey Map
 #### Why Karina is using this product
 
-Karina is currently a full-time, working student at Standford University. She loves her family but has very little time and energy to chat or bond with them at school. Recently, when she went home for spring break, she found out about all the new updates she has missed out on while talking to her grandparents, mom, dad, brother, and sister. This made her feel upset since her family used to talk all the time while she was in high school. Therefore, she has started exploring apps that her family can easily use to stay connected even with distance. 
+Karina is currently a full-time, working student at Standford University. She loves her family but has very little time and energy to chat or bond with them at school. Recently, when she went home for spring break, she found out about all the new updates she has missed out on while talking to her grandparents, mom, dad, brother, and sister. This made her feel upset since her family used to talk all the time while she was in high school. Therefore, she has started exploring apps that her family can easily use to stay connected even with distance. Since she is always busy, she needs an app that has the features of chat, video chat, update, and some sort of streaming service. Karina finds that having too many social media apps leads her to be overwhelmed and not look at the apps all together.
 
+### How Karina is using this product
+
+After she gets home from class, she texts her parents and grandparents that she was able to get an A on a very difficult final exam. Next, she goes on to the main feed and posts an update that she was able to get the internship position she told her family about during spring break. Following, she looks through the main feed, which only takes a couple minutes since it is just from her close family members. Karina then goes to the messaging feature and texts the sibling group chat if they want to watch a movie tonight. After getting a confirmation from both siblings, they stream a movie togeher and type their reactions in the chat box. 
 
 ## Reflection 💡
