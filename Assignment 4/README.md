@@ -31,6 +31,7 @@ After she gets home from class, she texts her parents and grandparents that she 
 
 #### Karina's Journey Map
 
+![Untitled](https://user-images.githubusercontent.com/119825654/235614480-61696c3d-b270-4b50-ab60-2e80708b0c6f.png)
 ## 2. Claire's Scenario and Journey Map
 #### Why Claire is using this product
 
