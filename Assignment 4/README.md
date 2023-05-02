@@ -7,4 +7,6 @@
 
 ## Personas and Empathy Maps 👥
 ### Persona #1: Karina Lu
+![User Personas](https://user-images.githubusercontent.com/119825654/235575062-1217294a-1e25-4526-88e2-9aab59929787.jpg)
+
 ### Persona #2: Claire Smith
