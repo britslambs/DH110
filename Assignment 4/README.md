@@ -20,4 +20,10 @@
 
 ## Scenarios and Journey Map 🗺
 
+## Karina's Scenario and Journey Map
+#### Why Karina is using this product
+
+Karina is currently a full-time, working student at Standford University. She loves her family but has very little time and energy to chat or bond with them at school. Recently, when she went home for spring break, she found out about all the new updates she has missed out on while talking to her grandparents, mom, dad, brother, and sister. This made her feel upset since her family used to talk all the time while she was in high school. Therefore, she has started exploring apps that her family can easily use to stay connected even with distance. 
+
+
 ## Reflection 💡
