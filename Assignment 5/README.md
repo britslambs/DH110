@@ -22,6 +22,9 @@ I will be focusing on:
 ![IMG_1767](https://user-images.githubusercontent.com/119825654/237060806-4d7935b3-c10c-47dc-9f92-b199f52a6480.jpg)
 
 ### Streaming a movie with others
+![IMG_1772](https://github.com/britslambs/DH110/assets/119825654/0f9a489b-86b4-4546-98e8-b41a84807340)
+![IMG_1773](https://github.com/britslambs/DH110/assets/119825654/75a1bc15-3c70-4fec-bea1-964002abe342)
+![IMG_1774](https://github.com/britslambs/DH110/assets/119825654/97b97a2f-4b16-4f27-b212-b96f3735c851)
 
 ## User Testing
 ![IMG_1768](https://github.com/britslambs/DH110/assets/119825654/fe75f3bb-f35c-4e22-8a53-278946509c11)
