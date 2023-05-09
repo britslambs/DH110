@@ -15,3 +15,7 @@ I will be focusing on:
 2. Streaming a movie with others
 
 ## Wireframes and Flow
+![IMG_1767](https://user-images.githubusercontent.com/119825654/237060806-4d7935b3-c10c-47dc-9f92-b199f52a6480.jpg)
+![IMG_1766](https://user-images.githubusercontent.com/119825654/237060810-52210526-9a98-49bc-9454-33473af4a61f.jpg)
+![IMG_1765](https://user-images.githubusercontent.com/119825654/237060815-5fdd38f9-caf9-41d5-98cc-6309837eeb16.jpg)
+![IMG_1763](https://user-images.githubusercontent.com/119825654/237060819-3d57ad3e-e59a-4d9c-9ddc-dbbbcb9d0361.jpg)
