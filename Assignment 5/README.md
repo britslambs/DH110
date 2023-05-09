@@ -29,3 +29,8 @@ I will be focusing on:
 ![IMG_1770](https://github.com/britslambs/DH110/assets/119825654/e4721cd7-8a82-4d12-a7c8-2402cd5d4ac8)
 
 ## Reflection/Summary
+I enjoyed creating the hand-drawn Lo-Fi designs as this was my first time creating wireframes. Drawing each interaction and connecting the flow definitely made me realize the effort UX designers put into creating good transition/flows that are intuitive for the users. While drawing the sketches, I had to research what common icons UX designers use in order to make my app universal. Even though I had an idea of what sort of designs I wanted, putting the designs to paper was a lot more challenging than I thought. 
+
+From the user testing, I believe I am on track to understanding which features to prioritze. But I need to work on the home page the most. My user told me that this specific page needs the most work on spacing. This is a sentiment I agree on since I do have some negative space in some of my pages. In addition, I was only able to ask one person to walk through my wireframe. In the future, I would like to have more users go through my designs to have a wider range of perspectives and opinions.
+
+Overall, I believe that this assignment helped me apply what we learned about wireframes during class. Also, it made me more excited when I will create a proper prototype as I will be able to see my ideas transferred from paper to a screen. 
