@@ -12,7 +12,6 @@ My second persona is Claire Smith, a busy and organized mom of three who wants t
 ### Tasks
 I will be focusing on: 
 1. Creating an update post
-2. Playing a game with others
-3. Streaming a movie with others
+2. Streaming a movie with others
 
 ## Wireframes and Flow
