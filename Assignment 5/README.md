@@ -15,4 +15,4 @@ I will be focusing on:
 2. Playing a game with others
 3. Streaming a movie with others
 
-## Wireframe and Flow
+## Wireframes and Flow
