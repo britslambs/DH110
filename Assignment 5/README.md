@@ -30,6 +30,7 @@ I will be focusing on:
 ![IMG_1768](https://github.com/britslambs/DH110/assets/119825654/fe75f3bb-f35c-4e22-8a53-278946509c11)
 ![IMG_1769](https://github.com/britslambs/DH110/assets/119825654/550bd710-0eca-47fc-8cd9-eceea837bd1c)
 ![IMG_1770](https://github.com/britslambs/DH110/assets/119825654/e4721cd7-8a82-4d12-a7c8-2402cd5d4ac8)
+* User was able to successfully run through tasks despite a few confusions
 
 ## Reflection/Summary
 I enjoyed creating the hand-drawn Lo-Fi designs as this was my first time creating wireframes. Drawing each interaction and connecting the flow definitely made me realize the effort UX designers put into creating good transition/flows that are intuitive for the users. While drawing the sketches, I had to research what common icons UX designers use in order to make my app universal. Even though I had an idea of what sort of designs I wanted, putting the designs to paper was a lot more challenging than I thought. 
