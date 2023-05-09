@@ -27,9 +27,12 @@ I will be focusing on:
 ![IMG_1774](https://github.com/britslambs/DH110/assets/119825654/97b97a2f-4b16-4f27-b212-b96f3735c851)
 
 ## User Testing
+### Task 1
 ![IMG_1768](https://github.com/britslambs/DH110/assets/119825654/fe75f3bb-f35c-4e22-8a53-278946509c11)
 ![IMG_1769](https://github.com/britslambs/DH110/assets/119825654/550bd710-0eca-47fc-8cd9-eceea837bd1c)
 ![IMG_1770](https://github.com/britslambs/DH110/assets/119825654/e4721cd7-8a82-4d12-a7c8-2402cd5d4ac8)
+### Task 2
+![IMG_1775](https://github.com/britslambs/DH110/assets/119825654/b9426d69-d39a-488d-82b5-81b978ca5086)
 * User was able to successfully run through tasks despite a few confusions
 
 ## Reflection/Summary
