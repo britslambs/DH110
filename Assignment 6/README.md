@@ -20,7 +20,7 @@ The purpose of this design is to create a minimalistic interface for my app idea
 <img width="639" alt="Screen Shot 2023-05-16 at 12 01 54 AM" src="https://github.com/britslambs/DH110/assets/119825654/f2647358-183e-4a13-9d4c-6bb7e3521bc2">
 
 ##  Impression 
-I asked my user participant, Margaret on how she felt about my designs and her first immediate thoughts after seeing it from the first time, these are her following thoughts:
+I asked my user participant, Margaret, on how she felt about my designs and her first immediate thoughts after seeing it from the first time, these are her following thoughts:
 * "The app looks clean but the design is pretty simple"
 * "I definitely prefer light mode since the dark mode is kind-of hard to read"
 * "I think the screenshot all the way to the right has the best font"
