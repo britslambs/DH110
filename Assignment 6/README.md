@@ -38,7 +38,7 @@ I asked my user participant, Margaret, on how she felt about my designs and her 
 
 ### User 2: Alex
 Recording:
-<img width="315" alt="Screen Shot 2023-05-16 at 11 33 37 AM" src="https://github.com/britslambs/DH110/assets/119825654/57f378fe-62e1-4c35-b73f-8e11bed457b4">
+https://photos.app.goo.gl/vS2HKhJgBbFgjYw57
 
 ### Findings
 * User found that wireframe is good and that features are "reasonably spaced"
