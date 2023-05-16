@@ -30,7 +30,9 @@ I asked my user participant, Margaret on how she felt about my designs and her f
 
 ### Findings
 *Typography* : The user found that the Lexand (Sans Serif) font is the easiest to read. This deviates from my own opinion that Lato is the most suitable for this app design. But this definitely made me re-think what the appropriate font would be. I would like to do further testing and surveying on this aspect of my interface design.
+
 *Shapes* : The user preferred the corner radius of 10. This also differed from my own opinion since I feel like more rounded the corners are, the less you can see the images. However, I believe that the search and post buttons can have a different corner radius than the image box.
+
 *Color* : I definitely expected that the user would prefer the light mode. I can see now that the dark mode color is not ideal and as visually pleasing as I want it to be. This is definitely something I need to work on because many people prefer dark mode when using apps, including myself.
 
 ## Color Contrast Check
