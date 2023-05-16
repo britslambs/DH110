@@ -18,6 +18,13 @@
 <img width="639" alt="Screen Shot 2023-05-16 at 12 01 54 AM" src="https://github.com/britslambs/DH110/assets/119825654/f2647358-183e-4a13-9d4c-6bb7e3521bc2">
 
 ##  Impression 
+An audio recording of the user viewing my designs can be found here:
+
+### Findings
+* Typography:
+* Shapes:
+* Color:
+
 ## Color Contrast Check
 
 <img width="756" alt="Screen Shot 2023-05-16 at 12 05 33 AM" src="https://github.com/britslambs/DH110/assets/119825654/9c3f3665-032b-46d3-ac6e-36834dc24941">
