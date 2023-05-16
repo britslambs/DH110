@@ -63,4 +63,4 @@ I chose Lato because it is simple, elegant, and legible, the characteristics I w
 My color scheme is black, gray, and cream. I chose these colors because it has a good color contrast and allows for the text to be legible. In addition, since these colors are very calm and neutral, the user won't be visually overwhelmed and distracted from completing their desired tasks.
 
 ### Layout Grid
-My layour grid if 4 row and 5 column because I believe that the spacing between the features are at a distance that allows users to easily differentiate between various functions.
+My layout grid if 4 row and 5 column because I believe that the spacing between the features are at a distance that allows users to easily differentiate between various functions.
