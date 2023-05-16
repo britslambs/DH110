@@ -36,7 +36,7 @@ I asked my user participant, Margaret, on how she felt about my designs and her 
 
 *Color* : I definitely expected that the user would prefer the light mode. I can see now that the dark mode color is not ideal and as visually pleasing as I want it to be. This is definitely something I need to work on because many people prefer dark mode when using apps, including myself.
 
-### User 2: Alex
+### User #2: Alex
 Recording:
 https://photos.app.goo.gl/vS2HKhJgBbFgjYw57
 
