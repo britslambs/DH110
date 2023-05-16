@@ -55,7 +55,7 @@ From left to right in the screenshot: Lato, Montagu Slab (Slab Serif), and Lexen
 * Level of font boldness and size is the same as the Typeface section above, regardless of typographic variation
 
 ### Shape Variations
-* From left to right in the screenshot, the corner radius to create different levels of roundless are 5, 10, and 20.
+* From left to right in the screenshot, the corner radius to create different levels of roundness are 5, 10, and 20.
 
 ## Design Decisions
 
