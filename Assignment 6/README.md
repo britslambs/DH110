@@ -6,7 +6,7 @@ The purpose of this design is to create a minimalistic interface for my app idea
 <img width="323" alt="Screen Shot 2023-05-16 at 8 47 27 AM" src="https://github.com/britslambs/DH110/assets/119825654/ba95d8b9-6112-4e04-a791-9775544401af">
 
 ## Layout
-<img width="326" alt="Screen Shot 2023-05-16 at 10 53 35 AM" src="https://github.com/britslambs/DH110/assets/119825654/8832a766-bd48-4295-9d02-fb7a485f954d">
+<img width="315" alt="Screen Shot 2023-05-16 at 11 33 37 AM" src="https://github.com/britslambs/DH110/assets/119825654/57f378fe-62e1-4c35-b73f-8e11bed457b4">
 
 ## Screen Design
 
