@@ -9,6 +9,8 @@
 ## Screen Design
 
 ### Typographic Design
+<img width="905" alt="Screen Shot 2023-05-15 at 11 02 28 PM" src="https://github.com/britslambs/DH110/assets/119825654/02cbdf14-9d6d-46d9-9c1a-da2a9907d963">
+
 ### Shape Variation 
 ### Color Variation
 ##  Impression 
