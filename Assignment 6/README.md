@@ -36,5 +36,15 @@
 * Gutter: 20 (for both)
 
 ### Typeface
+* Header: Lato, Bold, Size 36
+* (Got a thought?) Button: Lato, Light, Size 20
+* Names of post: Lato, Regular, 20
+* Minutes uploaded caption: Lato, Light, 15
 
+## Design Decisions
+
+### Typeface
+I chose Lato because it is simple, elegant, and legible, the characteristics I wanted my app design to follow. However, after doing the typography variations, 
+### Color Scheme
+### Layout Grid
 
