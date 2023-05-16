@@ -19,4 +19,7 @@
 
 ##  Impression 
 ## Color Contrast Check
+<img width="755" alt="Screen Shot 2023-05-15 at 11 20 05 PM" src="https://github.com/britslambs/DH110/assets/119825654/5dd5ecbe-5e35-43ad-8367-9f6fdfa9d3e6">
+
 ## Design System
+
