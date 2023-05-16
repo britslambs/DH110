@@ -33,4 +33,8 @@
 ### Layout Grid
 * Rows: 4
 * Columns: 5
+* Gutter: 20 (for both)
+
+### Typeface
+
 
