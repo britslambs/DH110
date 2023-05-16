@@ -3,7 +3,7 @@
 The purpose of this design is to create a minimalistic interface for my app idea: Branches. It is a family-centric app that aims to maintain and grow close relationships, even from a distance. In this app, families can chat, video call, post updates, play games, and stream movies together. I chose to design the home page of the app that shows updates from family members and icons at the bottom of the screen which can lead you to the other features previously mentioned. My design process started off with my hand-drawn low-fidelity prototypes and refining them when I started creating the interface on Figma. Screen designs can be found here: https://www.figma.com/file/VFYW4HSlkGJIfrKZd8O1Ie/Color-Contrast?type=design&node-id=0%3A1&t=d8JAqkHT1FkkZesL-1 
 
 ## Chosen Wireframe
-<img width="387" alt="Screen Shot 2023-05-15 at 10 15 43 PM" src="https://github.com/britslambs/DH110/assets/119825654/14c07a2c-7cc3-4461-b5b2-11307e50c627">
+<img width="323" alt="Screen Shot 2023-05-16 at 8 47 27 AM" src="https://github.com/britslambs/DH110/assets/119825654/ba95d8b9-6112-4e04-a791-9775544401af">
 
 ## Layout
 <img width="296" alt="Screen Shot 2023-05-16 at 12 03 53 AM" src="https://github.com/britslambs/DH110/assets/119825654/1f45d760-1685-449d-8ff9-600fa8eafcb7">
@@ -57,7 +57,10 @@ From left to right: Lato, Montagu Slab (Slab Serif), and Lexend (Sans Serif)
 ## Design Decisions
 
 ### Typeface
-I chose Lato because it is simple, elegant, and legible, the characteristics I wanted my app design to follow. However, after doing the typography variations, 
-### Color Scheme
-### Layout Grid
+I chose Lato because it is simple, elegant, and legible, the characteristics I wanted my app design to follow. However, after doing the typography variations, I think Montagu Slab could also be a great option since it is a more friendly-looking font. Overall, I think Lato is a safe choice but I still would like to continue looking for fonts that have a balance of seriousness and friendliness.
 
+### Color Scheme
+My color scheme is black, gray, and cream. I chose these colors because it has a good color contrast and allows for the text to be legible. In addition, since these colors are very calm and neutral, the user won't be visually overwhelmed and distracted from completing their desired tasks.
+
+### Layout Grid
+My layour grid if 4 row and 5 column because I believe that the spacing between the features are at a distance that allows users to easily differentiate between various functions.
