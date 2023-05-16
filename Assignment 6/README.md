@@ -4,7 +4,7 @@
 <img width="387" alt="Screen Shot 2023-05-15 at 10 15 43 PM" src="https://github.com/britslambs/DH110/assets/119825654/14c07a2c-7cc3-4461-b5b2-11307e50c627">
 
 ## Layout
-<img width="296" alt="Screen Shot 2023-05-15 at 11 49 50 PM" src="https://github.com/britslambs/DH110/assets/119825654/0444576b-c26b-4079-9ba7-6b9972f58e83">
+<img width="296" alt="Screen Shot 2023-05-16 at 12 03 53 AM" src="https://github.com/britslambs/DH110/assets/119825654/1f45d760-1685-449d-8ff9-600fa8eafcb7">
 
 ## Screen Design
 
@@ -19,7 +19,8 @@
 
 ##  Impression 
 ## Color Contrast Check
-<img width="755" alt="Screen Shot 2023-05-15 at 11 20 05 PM" src="https://github.com/britslambs/DH110/assets/119825654/5dd5ecbe-5e35-43ad-8367-9f6fdfa9d3e6">
+
+<img width="756" alt="Screen Shot 2023-05-16 at 12 05 33 AM" src="https://github.com/britslambs/DH110/assets/119825654/9c3f3665-032b-46d3-ac6e-36834dc24941">
 
 ## Design System
 
