@@ -45,10 +45,14 @@ An audio recording of the user viewing my designs can be found here:
 * Gutter: 20 (for both)
 
 ### Typeface
-* Header: Lato, Bold, Size 36
+* Header: Lato (Sans Serif), Bold, Size 36
 * (Got a thought?) Button: Lato, Light, Size 20
-* Names of post: Lato, Regular, Size 20
+* User names of post: Lato, Regular, Size 20
 * Minutes uploaded caption: Lato, Light, Size 15
+
+### Typographic Variations
+From left to right: Lato, Montagu Slab (Slab Serif), and Lexend (Sans Serif)
+* Level of font boldness and size is the same as the Typeface section above, regardless of typographic variation
 
 ## Design Decisions
 
