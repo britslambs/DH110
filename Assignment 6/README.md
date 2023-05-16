@@ -29,7 +29,7 @@ An audio recording of the user viewing my designs can be found here:
 
 ## Color Contrast Check
 
-<img width="756" alt="Screen Shot 2023-05-16 at 12 05 33 AM" src="https://github.com/britslambs/DH110/assets/119825654/9c3f3665-032b-46d3-ac6e-36834dc24941">
+<img width="669" alt="Screen Shot 2023-05-16 at 10 46 26 AM" src="https://github.com/britslambs/DH110/assets/119825654/2a84e8f5-545c-4a1e-a4d2-214a6295bdd2">
 
 ## Design System
 ### Color Style
