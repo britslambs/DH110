@@ -23,4 +23,6 @@
 <img width="756" alt="Screen Shot 2023-05-16 at 12 05 33 AM" src="https://github.com/britslambs/DH110/assets/119825654/9c3f3665-032b-46d3-ac6e-36834dc24941">
 
 ## Design System
+### Color Style
+<img width="211" alt="Screen Shot 2023-05-16 at 12 08 32 AM" src="https://github.com/britslambs/DH110/assets/119825654/808eb34f-78d4-4bfe-a33e-9dd515c34af0">
 
