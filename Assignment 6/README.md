@@ -45,8 +45,8 @@ An audio recording of the user viewing my designs can be found here:
 ### Typeface
 * Header: Lato, Bold, Size 36
 * (Got a thought?) Button: Lato, Light, Size 20
-* Names of post: Lato, Regular, 20
-* Minutes uploaded caption: Lato, Light, 15
+* Names of post: Lato, Regular, Size 20
+* Minutes uploaded caption: Lato, Light, Size 15
 
 ## Design Decisions
 
