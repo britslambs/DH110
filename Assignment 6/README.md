@@ -51,8 +51,11 @@ An audio recording of the user viewing my designs can be found here:
 * Minutes uploaded caption: Lato, Light, Size 15
 
 ### Typographic Variations
-From left to right in screenshot: Lato, Montagu Slab (Slab Serif), and Lexend (Sans Serif)
+From left to right in the screenshot: Lato, Montagu Slab (Slab Serif), and Lexend (Sans Serif)
 * Level of font boldness and size is the same as the Typeface section above, regardless of typographic variation
+
+### Shape Variations
+* From left to right in the screenshot, the corner radius to create different levels of roundless are 5, 10, and 20.
 
 ## Design Decisions
 
