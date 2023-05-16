@@ -20,6 +20,7 @@ The purpose of this design is to create a minimalistic interface for my app idea
 <img width="639" alt="Screen Shot 2023-05-16 at 12 01 54 AM" src="https://github.com/britslambs/DH110/assets/119825654/f2647358-183e-4a13-9d4c-6bb7e3521bc2">
 
 ##  Impression 
+### User #1: Margaret
 I asked my user participant, Margaret, on how she felt about my designs and her first immediate thoughts after seeing it from the first time, these are her following thoughts:
 * "The app looks clean but the design is pretty simple"
 * "I definitely prefer light mode since the dark mode is kind-of hard to read"
@@ -34,6 +35,17 @@ I asked my user participant, Margaret, on how she felt about my designs and her 
 *Shapes* : The user preferred the corner radius of 10. This also differed from my own opinion since I feel like more rounded the corners are, the less you can see the images. However, I believe that the search and post buttons can have a different corner radius than the image box.
 
 *Color* : I definitely expected that the user would prefer the light mode. I can see now that the dark mode color is not ideal and as visually pleasing as I want it to be. This is definitely something I need to work on because many people prefer dark mode when using apps, including myself.
+
+### User 2: Alex
+Recording:
+<img width="315" alt="Screen Shot 2023-05-16 at 11 33 37 AM" src="https://github.com/britslambs/DH110/assets/119825654/57f378fe-62e1-4c35-b73f-8e11bed457b4">
+
+### Findings
+* User found that wireframe is good and that features are "reasonably spaced"
+* Font is legible and readable, user belives that the middle text (Montagu Slab) is the best
+* However, for the second screenshot in the typographic variation, he found that the text is cluttered with the features. Also, sees this problem in the app title and icon to have this issue
+* User prefers the shape variation with the roundest corner radius, finds it "easy on the eyes" compared to sharpest edges. User believes that image box should have more of a shadow to differentiate between background and image.
+* He believes that both light and dark mode should be put inside the app for user preference.
 
 ## Color Contrast Check
 
