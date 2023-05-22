@@ -5,6 +5,9 @@ My project focuses on creating a family-centric app that allows individuals to c
 The purpose of a hi-fi prototype is to create realistic user interactions. It is the closest opportunity for the designer to use the app as a user would. It usually represents the close-end product of the app design and is used to test specific components.  
 ## Process
 ## Tasks
-## Link to Interactive Design
-## Cognitive Walkthrough 
+* Task 1: Creating an update post
+* Task 2: Streaming a movie with others
+## Wireflow with Graphic Design
+## Link to Prototype
+## Cognitive Walkthrough
 ## Refined Prototype
