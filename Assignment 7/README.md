@@ -9,6 +9,7 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 * Task 2: Streaming a movie with others
 ## Wireflow with Graphic Design
 <img width="833" alt="Screen Shot 2023-05-22 at 4 36 11 PM" src="https://github.com/britslambs/DH110/assets/119825654/d45eda69-936b-4063-9af9-c0e6c0416d74">
+<img width="943" alt="Screen Shot 2023-05-22 at 4 48 02 PM" src="https://github.com/britslambs/DH110/assets/119825654/db90199f-7fae-49ec-846e-be0c01517e3b">
 ## Link to Prototype
 ## Cognitive Walkthrough
 ## Refined Prototype
