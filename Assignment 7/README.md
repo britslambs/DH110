@@ -62,14 +62,14 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 * He expresses that the text in the "Confirm post" should be more centered 
 * Overall, believes that stylization and formatting needs a little work, flow is good
 
-##### Revisions
+#### Revisions
 * Focused on adding color and centering text and images 
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
 <img width="958" alt="Screen Shot 2023-05-22 at 11 22 52 PM" src="https://github.com/britslambs/DH110/assets/119825654/57ab8003-c37b-4160-8f00-2cb1ddedc839">
 
 #### Task 2
 
-##### Revisions
+#### Revisions
 
 ## Links to Revised Prototypes
 *Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
