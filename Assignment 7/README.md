@@ -80,6 +80,8 @@ This user was able to go through the prototypes very smoothly for the post part.
 * Overall, everything is readable and uncluttered
 
 #### Revisions
+* Added color, incorporated data of "Last Movies Streamed", separated contacts by group, added search and recommended features for movie picking, addition of "add viewers" for admin purposes
+
 
 ## Links to Revised Prototypes
 *Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
