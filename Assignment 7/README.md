@@ -34,8 +34,8 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 
 #### Is there any point that the users may not understand? 
 	 
-	> Answer for Task 1: The process of creating a post is very simple and straightforward.
-	> Answer for Task 2: At the “Let’s Stream” part, there is a history section on that page. Users may believe they can completely rewatch a movie with the same people previously. For example, can I rewatch the Titanic with the exact same friends and family previously? If not then, why is it in the same tab with room creation?
+> Answer for Task 1: The process of creating a post is very simple and straightforward.
+> Answer for Task 2: At the “Let’s Stream” part, there is a history section on that page. Users may believe they can completely rewatch a movie with the same people previously. For example, can I rewatch the Titanic with the exact same friends and family previously? If not then, why is it in the same tab with room creation?
 
 #### Is there any point in the app that the users may feel lost and not sure how to continue or go back?
 > I believe the app has a very streamlined and easy to understand process to go back, since there is a back arrow during every process. Continuing with the app’s processes is mostly easy to follow, however, there are several different ways to progress in the app. These different ways include clicking on an arrow, next button, creating a room name, etc. There is no uniform way for continuing like there is with going back. 
