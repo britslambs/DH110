@@ -26,6 +26,24 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 *Task 2*: https://www.figma.com/proto/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132 
 
 ## Cognitive Walkthrough
+
+### What do you see on the home screen?
+
+### What do you think the app is about?
+
+### What do you think this app is used for?
+
+### Is there any point that the users may not understand? 
+	 
+	* Answer for Task 1:
+	* Answer for Task 2:
+
+### Is there any point in the app that the users may feel lost and not sure how to continue or go back?
+
+### Is there anything missing, confusing, or inconsistent? 
+
+### Any other comments?
+
 ## Refined Prototypes
 *User Testing Task 1*: https://www.figma.com/proto/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
 
