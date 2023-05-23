@@ -46,6 +46,9 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 #### Any other comments?
 > I would recommend looking into how you can further personalize each user’s experience with this app. For movie streaming, a playlist generated on user analytics would be helpful. On making posts, sets of premade photo edit choices could be saved so the user could reuse their preferred settings. This app has a very user friendly interface and is intuitive to use as well, but a user personalized experience would make it stand out. 
 
+### Cognitive Walkthrough Findings
+This user was able to go through the prototypes very smoothly for the post part. Their critiques are in the edit and confirm pages in the task of uploading a post. In addition, they find the "Last Movies Watched" feature confusing on the streaming page. Lastly, they suggest that a playlist of suggested movies could be a good addition to the app. I found these findings very insightful as even though I believed some of the features were intuitive, the user might not. Therefore, this process of user testing has been very helpful. After considering their critiques, I believe they are very valid and would serve was great additions to the app.
+
 ## User Testing/Revisions
 ## User 2: Alex
 *User Testing Task 1*: https://photos.app.goo.gl/L6FmngM1UFSfckH46
@@ -75,3 +78,6 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 *Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
 
 *Task 2*: https://www.figma.com/proto/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132 
+
+## Reflection
+Overall, this process was both difficult and enjoyable at the same time. Since it was my first time creating a Hi-Fi prototype, I was not only learning how to use Figma but also attempting to create a user-friendly app while considering how to implement the characteristics of good design. Going through the iterative design process was very insightful as I also learned what my strengths and weaknesses are as a designer and what stages of design I struggle with most. However, I was able to use my creativity and brought my idea that I created in Week 2/3 to life. In addition, the process of user-testing at every stage has been very helpful as I could see the perspective of potential real-life users. They were able to identify blind spots and mistakes that I missed as a designer. 
