@@ -59,7 +59,8 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 * He expresses that the text in the "Confirm post" should be more centered 
 * Overall, believes that stylization and formatting needs a little work, flow is good
 
-##### Revisions 
+##### Revisions
+* Focused on adding color and centering test and images 
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
 <img width="958" alt="Screen Shot 2023-05-22 at 11 22 52 PM" src="https://github.com/britslambs/DH110/assets/119825654/57ab8003-c37b-4160-8f00-2cb1ddedc839">
 
