@@ -80,9 +80,9 @@ This user was able to go through the prototypes very smoothly for the post part.
 * Overall, everything is readable and uncluttered
 
 #### Revisions
-* Added color, incorporated data of "Last Movies Streamed", separated contacts by group, added search and recommended features for movie picking, addition of "add viewers" for admin purposes
+* Added color, incorporated data of "Last Movies Streamed", separated contacts by group, added search and recommended features for movie picking, addition of "add viewers" for admin purposes, adjusted flow
 <img width="948" alt="Screen Shot 2023-05-23 at 10 12 32 AM" src="https://github.com/britslambs/DH110/assets/119825654/ac113285-7a9a-49a2-bf9a-eb6a4984e87d">
-<img width="957" alt="Screen Shot 2023-05-23 at 10 13 01 AM" src="https://github.com/britslambs/DH110/assets/119825654/beaeec14-7251-4fe7-90eb-7afe5ea681de">
+<img width="958" alt="Screen Shot 2023-05-23 at 10 37 38 AM" src="https://github.com/britslambs/DH110/assets/119825654/f79d3937-b5d8-4938-9ab4-6641fcba4998">
 
 ## Links to Revised Prototypes
 *Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
