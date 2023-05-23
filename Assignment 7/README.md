@@ -11,6 +11,8 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 <img width="833" alt="Screen Shot 2023-05-22 at 4 36 11 PM" src="https://github.com/britslambs/DH110/assets/119825654/d45eda69-936b-4063-9af9-c0e6c0416d74">
 <img width="943" alt="Screen Shot 2023-05-22 at 4 48 02 PM" src="https://github.com/britslambs/DH110/assets/119825654/db90199f-7fae-49ec-846e-be0c01517e3b">
 <img width="944" alt="Screen Shot 2023-05-22 at 4 58 30 PM" src="https://github.com/britslambs/DH110/assets/119825654/47e41980-3cbc-47d6-93a0-520a9bb6029f">
+
 ## Link to Prototype
+Version 1 of Task 1: 
 ## Cognitive Walkthrough
 ## Refined Prototype
