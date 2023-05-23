@@ -22,7 +22,7 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 <img width="934" alt="Screen Shot 2023-05-22 at 8 50 52 PM" src="https://github.com/britslambs/DH110/assets/119825654/86e5d9f4-ff88-4b91-91e2-403837aa5e41">
 
 ## Cognitive Walkthrough
-
+## User 1: Margaret 
 #### What do you see on the home screen?
 > I see a search function, the ability to create a post, a social media feed, and several icons below which have different functions.
 
@@ -47,6 +47,7 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 > I would recommend looking into how you can further personalize each user’s experience with this app. For movie streaming, a playlist generated on user analytics would be helpful. On making posts, sets of premade photo edit choices could be saved so the user could reuse their preferred settings. This app has a very user friendly interface and is intuitive to use as well, but a user personalized experience would make it stand out. 
 
 ## User Testing/Revisions
+## User 2: Alex
 *User Testing Task 1*: https://photos.app.goo.gl/L6FmngM1UFSfckH46
 
 *User Testing Task 2*: https://photos.app.goo.gl/mM6kAJbn1sfRVJuQ6
