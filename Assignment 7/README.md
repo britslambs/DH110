@@ -4,6 +4,8 @@ My project focuses on creating a family-centric app that allows individuals to c
 ## Purpose
 The purpose of a hi-fi prototype is to create realistic user interactions. It is the closest opportunity for the designer to use the app as a user would. It usually represents the close-end product of the app design and is used to test specific components.  
 ## Process
+This high-fidelity, interactive prototype involved several processes. Firstly, I based my wireflow off of my hand-drawn, low-fidelity wireframes. After evaluating my inital designs again, I might slight changes, mainly in the placement of my button features to make the flow more intuitive for users. In addition to my re-designs, I used the plug-in AutoFlow to map out how I would want to create my prototype flows. Then, after creating my prototypes, I entered the user-testing stage. The user was able to give valuable insight on ease of task, stylization and formatting of app, and the overall look and feel of the design. Therefore, I was able to take these critiques and revise my prototypes.
+
 ## Tasks
  ### Task 1: Creating an update post
  > In the first task, the user is going through the process of posting an update for their family to see. In this process, they are using the caption, photo, and location feature components. To do so, they will write a caption, add a photo of their food from their camera, add their location, and finally share it on their feed. 
