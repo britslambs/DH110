@@ -18,7 +18,7 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 ## Link to Prototype
 *Version 1 of Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
 
-*Version 1 of Task 2*: 
+*Version 1 of Task 2*: https://www.figma.com/file/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&node-id=0%3A1&t=qfBfhVljqkWCnfMS-1 
 
 ## Cognitive Walkthrough
 ## Refined Prototype
