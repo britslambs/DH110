@@ -19,12 +19,6 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 <img width="951" alt="Screen Shot 2023-05-22 at 8 22 15 PM" src="https://github.com/britslambs/DH110/assets/119825654/f095f52d-78e4-45a1-aa50-2aee5eca52a9">
 <img width="934" alt="Screen Shot 2023-05-22 at 8 50 52 PM" src="https://github.com/britslambs/DH110/assets/119825654/86e5d9f4-ff88-4b91-91e2-403837aa5e41">
 
-
-## Links to Prototypes
-*Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
-
-*Task 2*: https://www.figma.com/proto/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132 
-
 ## Cognitive Walkthrough
 
 #### What do you see on the home screen?
@@ -64,3 +58,7 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
 <img width="958" alt="Screen Shot 2023-05-22 at 11 22 52 PM" src="https://github.com/britslambs/DH110/assets/119825654/57ab8003-c37b-4160-8f00-2cb1ddedc839">
 
+## Links to Revised Prototypes
+*Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
+
+*Task 2*: https://www.figma.com/proto/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132 
