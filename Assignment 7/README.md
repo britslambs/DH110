@@ -24,26 +24,32 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 ## Cognitive Walkthrough
 
 #### What do you see on the home screen?
+> I see a search function, the ability to create a post, a social media feed, and several icons below which have different functions.
 
 #### What do you think the app is about?
+> It is a social media app where I can share things about my life, but also speak to other people using the app’s functions. I can also stream video with other users. 
 
 #### What do you think this app is used for?
+> This app is for keeping up to date with friends and family while also socializing with them. I can also post about my own life as well. 
 
 #### Is there any point that the users may not understand? 
 	 
-	* Answer for Task 1:
-	* Answer for Task 2:
+	> Answer for Task 1: The process of creating a post is very simple and straightforward.
+	> Answer for Task 2: At the “Let’s Stream” part, there is a history section on that page. Users may believe they can completely rewatch a movie with the same people previously. For example, can I rewatch the Titanic with the exact same friends and family previously? If not then, why is it in the same tab with room creation?
 
 #### Is there any point in the app that the users may feel lost and not sure how to continue or go back?
+> I believe the app has a very streamlined and easy to understand process to go back, since there is a back arrow during every process. Continuing with the app’s processes is mostly easy to follow, however, there are several different ways to progress in the app. These different ways include clicking on an arrow, next button, creating a room name, etc. There is no uniform way for continuing like there is with going back. 
 
 #### Is there anything missing, confusing, or inconsistent? 
+> The create a post and confirm post tables for Task 1 are confusing since they share the same process of typing, editing, and finalizing a social media post. These tabs should be merged into a single edit and share tab.
 
 #### Any other comments?
+> I would recommend looking into how you can further personalize each user’s experience with this app. For movie streaming, a playlist generated on user analytics would be helpful. On making posts, sets of premade photo edit choices could be saved so the user could reuse their preferred settings. This app has a very user friendly interface and is intuitive to use as well, but a user personalized experience would make it stand out. 
 
 ## User Testing/Revisions
-*User Testing Task 1*: https://www.figma.com/proto/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
+*User Testing Task 1*: https://photos.app.goo.gl/L6FmngM1UFSfckH46
 
-*User Testing Task 2*:
+*User Testing Task 2*: https://photos.app.goo.gl/mM6kAJbn1sfRVJuQ6
 
 ### Findings
 #### Task 1
@@ -59,6 +65,10 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 * Focused on adding color and centering text and images 
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
 <img width="958" alt="Screen Shot 2023-05-22 at 11 22 52 PM" src="https://github.com/britslambs/DH110/assets/119825654/57ab8003-c37b-4160-8f00-2cb1ddedc839">
+
+#### Task 2
+
+##### Revisions
 
 ## Links to Revised Prototypes
 *Task 1*: https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132
