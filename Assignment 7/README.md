@@ -50,3 +50,11 @@ The purpose of a hi-fi prototype is to create realistic user interactions. It is
 *User Testing Task 2*:
 
 ### Findings
+#### Task 1
+* User expressed that the Home Page is readable, specifically mentioning the text and spacing, however, they would like to see some color on in the background
+* Stated that "Got a thought" is intuitive 
+* User understood all icons (universal) when going through the task of making a post
+* User was able to go between pages very easily
+* User believes that the location bar is too close to the "save draft" 
+* He expresses that the text in the "Confirm post" should be more centered 
+* Overall, believes that stylization and formatting needs a little work, flow is good
