@@ -1,4 +1,4 @@
-# Assignment 6: Interface Design
+# Assignment 5: Interface Design
 ## Description
 The purpose of this design is to create a minimalistic interface for my app idea: Branches. It is a family-centric app that aims to maintain and grow close relationships, even from a distance. In this app, families can chat, video call, post updates, play games, and stream movies together. I chose to design the home page of the app that shows updates from family members and icons at the bottom of the screen which can lead you to the other features previously mentioned. My design process started off with my hand-drawn low-fidelity prototypes and refining them when I started creating the interface on Figma. In addition, the home page is also created from the perspective of one of my personas, Claire Smith. Screen designs can be found here: https://www.figma.com/file/VFYW4HSlkGJIfrKZd8O1Ie/Color-Contrast?type=design&node-id=0%3A1&t=d8JAqkHT1FkkZesL-1 
 
