@@ -40,10 +40,17 @@
 
 [Task 2 Usability Testing Hi-Fi Prototype](https://photos.app.goo.gl/mM6kAJbn1sfRVJuQ6) 
 
-#### Post-Class Cognitive Walkthrough Revisions: Task 1
+#### Post-Class Cognitive Walkthrough Revisions: 
+*After participating in the in-class cognitive walkthrough, I made a couple of changes based off of the suggestions of my groupmates. This is specific to Task 1 since they focused their critiques on this. The following changes are:* 
+* Deleted extra page before "Confirm" post to avoid repetition and confusion
+* Added drop shadow to selected image for user to clearly see which photo has been chosen
+* Added cancel buttons on the pages for users to easily end the process of posting an update
+* Added a location arrow and "You are here" for user to see what location they choosing
+##### Before 
+<img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
+##### After
 <img width="964" alt="Screen Shot 2023-06-06 at 8 58 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/b117563b-bcec-4068-b364-257f7dab8a99">
 
-#### Post-Class Cognitive Walkthrough: Task 2
 
 ## Pitch Video
 
