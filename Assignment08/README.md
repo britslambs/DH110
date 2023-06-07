@@ -12,7 +12,7 @@
 [Read more](https://github.com/britslambs/DH110/tree/main/Assignment01) 
 ### Usability Testing
 #### Summary 
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment2) 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment02) 
 
 ## User Research
 #### Summary 
