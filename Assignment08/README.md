@@ -82,4 +82,6 @@ After creating my Hi-Fi prototypes, I had my user Alex critique them and walk me
 ## Pitch Video
 
 ## Conclusion
+Overall, I found this project difficult yet rewarding. This was my first time creating a proper UX project, from brainstorming app designs to creating interactive prototypes on Figma. I believe I was able to create a useful app for two of my personas. Throughout multiple assignments, I recieved feeback from users and classmates, helping me refine my design ideas and gain the perspective of potential users. Therefore, I was able to experience the iterative design process first-hand. My main takeaway from this project is to always listen to users and find as many people to test your wireframes and prototypes. It was very helpful for me because I struggled with understanding the perspective of users at times. 
 
+I sought inspiration from Facebook, WatchParty, and Twitch in the beginning but then started going on my own route as I started receiving feedback. If I were to continue this project, I would definitely want to continue working on my interface design. While what I currently have is not bad, I would like to be more creative. Next, I also want to test my prototypes with a wider demographic and more participants. Although I made multiple revisions, I still think I could improve my app design through refining the layout and button placement. 
