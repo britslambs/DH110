@@ -38,14 +38,13 @@ Storytelling allows you to step into the position of the user and keeps the desi
 [Read more](https://github.com/britslambs/DH110/blob/main/Assignment005/README.md) 
 
 ![IMG_1766](https://user-images.githubusercontent.com/119825654/237060810-52210526-9a98-49bc-9454-33473af4a61f.jpg)
-<img width="323" alt="Screen Shot 2023-05-16 at 8 47 27 AM" src="https://github.com/britslambs/DH110/assets/119825654/ba95d8b9-6112-4e04-a791-9775544401af">
+
 
 ## Low Fidelity Prototype
 #### Summary 
 [Read more](https://github.com/britslambs/DH110/blob/main/Assignment06/README.md)
 
 <img width="323" alt="Screen Shot 2023-05-16 at 8 47 27 AM" src="https://github.com/britslambs/DH110/assets/119825654/ba95d8b9-6112-4e04-a791-9775544401af">
-![IMG_1766](https://user-images.githubusercontent.com/119825654/237060810-52210526-9a98-49bc-9454-33473af4a61f.jpg)
 
 ## High Fidelity Prototype
 #### Summary 
