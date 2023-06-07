@@ -15,7 +15,8 @@ I conducted a heuristics analysis of the Family Wall and Marco Polo apps based o
 <img width="998" alt="Screen Shot 2023-06-06 at 9 28 27 PM" src="https://github.com/britslambs/DH110/assets/119825654/7060b2c9-0886-49d4-a672-8df41499fd96">
 
 ### Usability Testing
-The primary objective of pilot usability testing is to enhance the user experience of the application or website and identify any areas of weakness that can be rectified. By engaging a small number of individuals in usability testing, the design flaws of the app can be uncovered. This approach enables the detection of potential issues early on, without requiring a significant investment of resources. Additionally, usability testing is a valuable method for gaining insights into the thought processes and behaviors of participants, as well as observing how a first-time user would navigate the app. I conducted my pilot UT with Margaret using the FamilyWall app ... [Read more(https://github.com/britslambs/DH110/tree/main/Assignment02) 
+The primary objective of pilot usability testing is to enhance the user experience of the application or website and identify any areas of weakness that can be rectified. By engaging a small number of individuals in usability testing, the design flaws of the app can be uncovered. This approach enables the detection of potential issues early on, without requiring a significant investment of resources. Additionally, usability testing is a valuable method for gaining insights into the thought processes and behaviors of participants, as well as observing how a first-time user would navigate the app. I conducted my pilot UT with Margaret using the FamilyWall app ... 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment02) 
 
 <img width="1132" alt="Screen Shot 2023-06-06 at 9 30 17 PM" src="https://github.com/britslambs/DH110/assets/119825654/7e295d6e-abb3-4464-a3a8-fc8e8edb4af7">
 
