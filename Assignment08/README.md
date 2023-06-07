@@ -34,26 +34,27 @@ Storytelling allows you to step into the position of the user and keeps the desi
 ![User Personas](https://user-images.githubusercontent.com/119825654/235575062-1217294a-1e25-4526-88e2-9aab59929787.jpg)
 
 ## Wireframe and Graphic Design
-
+The purpose of this design is to create a minimalistic interface for my app idea: Branches. It is a family-centric app that aims to maintain and grow close relationships, even from a distance. In this app, families can chat, video call, post updates, play games, and stream movies together. I chose to design the home page of the app that shows updates from family members and icons at the bottom of the screen which can lead you to the other features previously mentioned. My design process started off with my hand-drawn low-fidelity prototypes and refining them when I started creating the interface on Figma. I created various typographic, shape, and color variations for potential app designs...
 [Read more](https://github.com/britslambs/DH110/blob/main/Assignment005/README.md) 
 <img width="323" alt="Screen Shot 2023-05-16 at 8 47 27 AM" src="https://github.com/britslambs/DH110/assets/119825654/ba95d8b9-6112-4e04-a791-9775544401af">
 
 
 ## Low Fidelity Prototype
-#### Summary 
+Low fidelity prototypes are created due to how quick and rapid representation of a user flow/product. It allows for UX designers to recieve feedback and allows them to make changes before time and money are put into the product. Lo-Fi prototypes are usually created through hand-drawn sketches and allows for the designer to maximize the amount of improvements before further work is done. Through making low fidelity prototypes, I will be able to understand what features I want to prioritize in my app. In addition, I can recieve quick feedback from user testers before I create my more advanced high fidelity prototype ...
 [Read more](https://github.com/britslambs/DH110/blob/main/Assignment06/README.md)
 ![IMG_1766](https://user-images.githubusercontent.com/119825654/237060810-52210526-9a98-49bc-9454-33473af4a61f.jpg)
 
 
 
 ## High Fidelity Prototype
-#### Summary 
-
+This high-fidelity, interactive prototype involved several processes. Firstly, I based my wireflow off of my hand-drawn, low-fidelity wireframes. After evaluating my inital designs again, I might slight changes, mainly in the placement of my button features to make the flow more intuitive for users. In addition to my re-designs, I used the plug-in AutoFlow to map out how I would want to create my prototype flows. Then, after creating my prototypes, I entered the user-testing stage. The user was able to give valuable insight on ease of task, stylization and formatting of app, and the overall look and feel of the design. Therefore, I was able to take these critiques and revise my prototypes ...
 [Read more](https://github.com/britslambs/DH110/tree/main/Assignment07) 
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
 <img width="911" alt="Screen Shot 2023-05-23 at 10 44 29 AM" src="https://github.com/britslambs/DH110/assets/119825654/cf0e2b85-13de-47f7-b6e7-dcd5d314a3cc">
 
 ## Evaluation/Revision
+After creating my Hi-Fi prototypes, I had my user Alex critique them and walk me through the tasks from perspective. Below are the user testing videos for each task. 
+
 #### Hi-Fi Prototype Assignment 7 User Testing
 [Task 1 Usability Testing Hi-Fi Prototype](https://photos.app.goo.gl/L6FmngM1UFSfckH46) 
 
