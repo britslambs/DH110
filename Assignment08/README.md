@@ -36,6 +36,7 @@ Storytelling allows you to step into the position of the user and keeps the desi
 ## Wireframe and Graphic Design
 The purpose of this design is to create a minimalistic interface for my app idea: Branches. It is a family-centric app that aims to maintain and grow close relationships, even from a distance. In this app, families can chat, video call, post updates, play games, and stream movies together. I chose to design the home page of the app that shows updates from family members and icons at the bottom of the screen which can lead you to the other features previously mentioned. My design process started off with my hand-drawn low-fidelity prototypes and refining them when I started creating the interface on Figma. I created various typographic, shape, and color variations for potential app designs...
 [Read more](https://github.com/britslambs/DH110/blob/main/Assignment005/README.md) 
+
 <img width="323" alt="Screen Shot 2023-05-16 at 8 47 27 AM" src="https://github.com/britslambs/DH110/assets/119825654/ba95d8b9-6112-4e04-a791-9775544401af">
 
 
@@ -52,7 +53,7 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
 <img width="911" alt="Screen Shot 2023-05-23 at 10 44 29 AM" src="https://github.com/britslambs/DH110/assets/119825654/cf0e2b85-13de-47f7-b6e7-dcd5d314a3cc">
 
-*Access my prototypes below*
+*_Access my prototypes below_*
 
 [Task 1](https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment-Task-1?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132)
 
