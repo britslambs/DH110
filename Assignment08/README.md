@@ -3,7 +3,7 @@
 # DH110 Project: Branches - Britney Lam
 
 ## Introduction
-For this quarter's DH110 class theme, Professor Cho announced that we would be focused on family. As a college student who lives far from her family, I wanted to created an app that allows you to have a dedicated, private space where you share updates, play games, and stream movies. I chose these specific features because I found that myself and others around me focus on activities when we communicate with our family. 
+For this quarter's DH110 class theme, Professor Cho announced that we would be focused on family. As a college student who lives far from her family, I wanted to created an app that allows you to have a dedicated, private space where you share updates, play games, and stream movies. I chose these specific features because I found that myself and others around me focus on these activities when we communicate with our family. 
 
 ## Design Statement
 To do the previous listed activities, I usually have to switch between multiple apps/platforms. I find this inconvenient, especially because I do not have much free time due to schoolwork and extracurriculars. Therefore, this app needed to be easy to navigate and versatile. I believe that this app can benefit many people of all demographics since users want to reach their goals in the least amount of time. In addition, when people are on social media, they usually follow individuals outside of their family, such as friends and celebrities, therefore, this app is designed to be family-centric. Even if a user does not have time to scroll through social media, they can utilize this app since it cuts back on clutter. Main features:
