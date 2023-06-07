@@ -3,13 +3,14 @@
 # DH110 Project: Branches - Britney Lam
 
 ## Introduction
+For this quarter's DH110 class theme, Professor Cho announced that we would be focused on family. As a college student who lives far from her family, I wanted to created an app that allows you to have a dedicated, private space where you share updates, play games, and stream movies. I chose these specific features because I found that myself and others around me focus on activities when we communicate with our family. 
 
 ## Design Statement
+To do the previous listed activities, I usually have to switch between multiple apps/platforms. I find this inconvenient, especially because I do not have much free time due to schoolwork and extracurriculars. Therefore, this app needed to be easy to navigate and versatile. I believe that this app can benefit many people of all demographics since users want to reach their goals in the least amount of time. In addition, when people are on social media, they usually follow individuals outside of their family, such as friends and celebrities, therefore, this app is designed to be family-centric. Even if a user does not have time to scroll through social media, they can utilize this app since it cuts back on clutter. 
 
 ## Competitor Analysis 
 ### Heuristics 
-
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment01)
+I conducted a heuristics analysis of the Family Wall and Marco Polo apps based off of Neilson's heuristic ratings. I chose these apps as these are two popular platforms created to communicate with family through video chatting and direct messaging. Family Wall not only allows basic features like chatting but also shared grocery lists, schedules, and locations through purchasing the Premium membership. Marco Polo focused on video chatting and sending live messages ...[Read more](https://github.com/britslambs/DH110/tree/main/Assignment01)
 
 <img width="998" alt="Screen Shot 2023-06-06 at 9 28 27 PM" src="https://github.com/britslambs/DH110/assets/119825654/7060b2c9-0886-49d4-a672-8df41499fd96">
 
