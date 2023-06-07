@@ -6,7 +6,11 @@
 For this quarter's DH110 class theme, Professor Cho announced that we would be focused on family. As a college student who lives far from her family, I wanted to created an app that allows you to have a dedicated, private space where you share updates, play games, and stream movies. I chose these specific features because I found that myself and others around me focus on activities when we communicate with our family. 
 
 ## Design Statement
-To do the previous listed activities, I usually have to switch between multiple apps/platforms. I find this inconvenient, especially because I do not have much free time due to schoolwork and extracurriculars. Therefore, this app needed to be easy to navigate and versatile. I believe that this app can benefit many people of all demographics since users want to reach their goals in the least amount of time. In addition, when people are on social media, they usually follow individuals outside of their family, such as friends and celebrities, therefore, this app is designed to be family-centric. Even if a user does not have time to scroll through social media, they can utilize this app since it cuts back on clutter. 
+To do the previous listed activities, I usually have to switch between multiple apps/platforms. I find this inconvenient, especially because I do not have much free time due to schoolwork and extracurriculars. Therefore, this app needed to be easy to navigate and versatile. I believe that this app can benefit many people of all demographics since users want to reach their goals in the least amount of time. In addition, when people are on social media, they usually follow individuals outside of their family, such as friends and celebrities, therefore, this app is designed to be family-centric. Even if a user does not have time to scroll through social media, they can utilize this app since it cuts back on clutter. Main features:
+
+* Feed/Update: Users can share posts/updates and reply, like, and/or share their family members' posts
+* Stream Movies: Users can create streaming groups, choose platforms, and watch movies at the same time
+* Play Games: Users can choose mobile or PC games to play one another with the ability to voice/video chat
 
 ## Competitor Analysis 
 ### Heuristics 
@@ -90,3 +94,6 @@ After creating my Hi-Fi prototypes, I had my user Alex critique them and walk me
 Overall, I found this project difficult yet rewarding. This was my first time creating a proper UX project, from brainstorming app designs to creating interactive prototypes on Figma. I believe I was able to create a useful app for two of my personas. Throughout multiple assignments, I recieved feeback from users and classmates, helping me refine my design ideas and gain the perspective of potential users. Therefore, I was able to experience the iterative design process first-hand. My main takeaway from this project is to always listen to users and find as many people to test your wireframes and prototypes. It was very helpful for me because I struggled with understanding the perspective of users at times. 
 
 I sought inspiration from Facebook, WatchParty, and Twitch in the beginning but then started going on my own route as I started receiving feedback. If I were to continue this project, I would definitely want to continue working on my interface design. While what I currently have is not bad, I would like to be more creative. Next, I also want to test my prototypes with a wider demographic and more participants. Although I made multiple revisions, I still think I could improve my app design through refining the layout and button placement. 
+
+![designthinking_illustration_final2-02](https://github.com/britslambs/DH110/assets/119825654/05844dd9-95cc-4e9e-814e-ee9fcc63acb4)
+
