@@ -35,11 +35,12 @@
 [Read more](https://github.com/britslambs/DH110/tree/main/Assignment%207) 
 
 ## Evaluation/Revision
+#### Hi-Fi Prototype Assignment 7 User Testing
 [Task 1 Usability Testing Hi-Fi Prototype](https://photos.app.goo.gl/L6FmngM1UFSfckH46) 
 
 [Task 2 Usability Testing Hi-Fi Prototype](https://photos.app.goo.gl/mM6kAJbn1sfRVJuQ6) 
 
-#### Post-Class Cognitive Walkthrough: Task 1
+#### Post-Class Cognitive Walkthrough Revisions: Task 1
 <img width="964" alt="Screen Shot 2023-06-06 at 8 58 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/b117563b-bcec-4068-b364-257f7dab8a99">
 
 #### Post-Class Cognitive Walkthrough: Task 2
