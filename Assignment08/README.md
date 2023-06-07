@@ -25,6 +25,8 @@ The primary objective of pilot usability testing is to enhance the user experien
 The significance of user research lies is to enhance the user experience of a product or service by identifying and addressing weaknesses. By conducting user research, design flaws can be uncovered and fixed, preventing future issues and minimizing resources wasted. Furthermore, user research allows for a deeper understanding of participants' thoughts, behaviors, and preferences, enabling the creation of more intuitive and user-friendly experiences. I conducted user research with Alex by giving him two tasks that relate to my proposed features of my app ...
 [Read more](https://github.com/britslambs/DH110/tree/main/Assignment03) 
 
+Recording can be found [here](https://photos.google.com/u/1/share/AF1QipONSpEhysCfTgVeyD_E9IjXVIwKYRX-N6OPf8qTF6bgK3uPFCiUJCLIxe5CBokPwQ) 
+
 <img width="756" alt="Screen Shot 2023-06-06 at 9 32 08 PM" src="https://github.com/britslambs/DH110/assets/119825654/b523f00b-5b49-4cf0-b126-f53b23eaa714">
 
 *Image for this portion of the project is lower quality since user research was conducted over Zoom.*
