@@ -22,27 +22,26 @@ The primary objective of pilot usability testing is to enhance the user experien
 
 
 ## User Research
-#### Summary 
+The significance of user research lies is to enhance the user experience of a product or service by identifying and addressing weaknesses. By conducting user research, design flaws can be uncovered and fixed, preventing future issues and minimizing resources wasted. Furthermore, user research allows for a deeper understanding of participants' thoughts, behaviors, and preferences, enabling the creation of more intuitive and user-friendly experiences. I conducted user research with Alex by giving him two tasks that relate to my proposed features of my app ...
 [Read more](https://github.com/britslambs/DH110/tree/main/Assignment03) 
 
 <img width="756" alt="Screen Shot 2023-06-06 at 9 32 08 PM" src="https://github.com/britslambs/DH110/assets/119825654/b523f00b-5b49-4cf0-b126-f53b23eaa714">
 
 ## UX Storytelling
-#### Summary
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment04)
+Storytelling allows you to step into the position of the user and keeps the design user-centric. It ensures that the design is focused on the users' needs and valuable towards making their lives easier. Designers can create an emotional connection with the user as they map out their problems, goals, and resolutions. Drawing from my user research, I created two personas: Claire Smith, a working mom of three, and Karina Lu, a busy college student... [Read more](https://github.com/britslambs/DH110/tree/main/Assignment04)
 
 ![User Personas (1)](https://user-images.githubusercontent.com/119825654/235575243-2fbb844e-f92b-4cf9-9ecd-3569ebc9fbae.jpg)
 ![User Personas](https://user-images.githubusercontent.com/119825654/235575062-1217294a-1e25-4526-88e2-9aab59929787.jpg)
 
 ## Wireframe and Graphic Design
-#### Summary 
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment05) 
+
+[Read more](https://github.com/britslambs/DH110/blob/main/Assignment005/README.md) 
 
 ![IMG_1766](https://user-images.githubusercontent.com/119825654/237060810-52210526-9a98-49bc-9454-33473af4a61f.jpg)
 
 ## Low Fidelity Prototype
 #### Summary 
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment06)
+[Read more](https://github.com/britslambs/DH110/blob/main/Assignment06/README.md)
 
 <img width="323" alt="Screen Shot 2023-05-16 at 8 47 27 AM" src="https://github.com/britslambs/DH110/assets/119825654/ba95d8b9-6112-4e04-a791-9775544401af">
 
