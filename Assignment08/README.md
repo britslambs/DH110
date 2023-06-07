@@ -48,6 +48,7 @@
 * Added a location arrow and "You are here" for user to see what location they choosing
 ##### Before 
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
+
 ##### After
 <img width="964" alt="Screen Shot 2023-06-06 at 8 58 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/b117563b-bcec-4068-b364-257f7dab8a99">
 
