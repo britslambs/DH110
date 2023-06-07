@@ -27,6 +27,8 @@ The significance of user research lies is to enhance the user experience of a pr
 
 <img width="756" alt="Screen Shot 2023-06-06 at 9 32 08 PM" src="https://github.com/britslambs/DH110/assets/119825654/b523f00b-5b49-4cf0-b126-f53b23eaa714">
 
+*Image for this portion of the project is lower quality since user research was conducted over Zoom.*
+
 ## UX Storytelling
 Storytelling allows you to step into the position of the user and keeps the design user-centric. It ensures that the design is focused on the users' needs and valuable towards making their lives easier. Designers can create an emotional connection with the user as they map out their problems, goals, and resolutions. Drawing from my user research, I created two personas: Claire Smith, a working mom of three, and Karina Lu, a busy college student... [Read more](https://github.com/britslambs/DH110/tree/main/Assignment04)
 
