@@ -1,6 +1,6 @@
 # Pitch and Portfolio
 
-# DH110 Project:Branches - Britney Lam
+# DH110 Project: Branches - Britney Lam
 
 ## Introduction
 
