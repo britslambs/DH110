@@ -7,11 +7,16 @@
 ## Design Statement
 
 ## Competitor Analysis 
-### Summary 
-[read more](https://github.com/britslambs/DH110/tree/main/Assignment01) 
+### Heuristics 
+#### Summary 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment01) 
+### Usability Testing
+#### Summary 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment2) 
 
 ## User Research
 ### Summary 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment%203) 
 
 ## UX Storytelling
 
