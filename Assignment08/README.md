@@ -16,23 +16,23 @@
 
 ## User Research
 #### Summary 
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment%203) 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment03) 
 
 ## UX Storytelling
 #### Summary
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment%204)
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment04)
 
 ## Wireframe and Graphic Design
 #### Summary 
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment%205) 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment05) 
 
 ## Low Fidelity Prototype
 #### Summary 
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment%206)
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment06)
 
 ## High Fidelity Prototype
 #### Summary 
-[Read more](https://github.com/britslambs/DH110/tree/main/Assignment%207) 
+[Read more](https://github.com/britslambs/DH110/tree/main/Assignment07) 
 
 ## Evaluation/Revision
 #### Hi-Fi Prototype Assignment 7 User Testing
