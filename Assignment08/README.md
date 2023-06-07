@@ -52,7 +52,10 @@ This high-fidelity, interactive prototype involved several processes. Firstly, I
 <img width="947" alt="Screen Shot 2023-05-22 at 11 22 21 PM" src="https://github.com/britslambs/DH110/assets/119825654/99e983ec-2928-4acc-b5af-e3247e11ada7">
 <img width="911" alt="Screen Shot 2023-05-23 at 10 44 29 AM" src="https://github.com/britslambs/DH110/assets/119825654/cf0e2b85-13de-47f7-b6e7-dcd5d314a3cc">
 
+*Access my prototypes below*
+
 [Task 1](https://www.figma.com/proto/thjNIKbg0aGRVZ8K5qh6Ly/Hi-Fi-Prototype-Assignment-Task-1?type=design&node-id=7-132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A132)
+
 [Task 2](https://www.figma.com/proto/aL0VJQDkYHhY6JHVzTSiTR/Hi-Fi-Prototype-Assignment-Task-2?type=design&scaling=scale-down&page-id=0%3A1&starting-point-node-id=7%3A132&node-id=7-132)
 
 ## Evaluation/Revision
